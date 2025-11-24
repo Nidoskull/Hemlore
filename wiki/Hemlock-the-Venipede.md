@@ -1,7 +1,7 @@
 # Hemlock, child of Belladonna
 ![[shime1.png]]
 ## General biography
-**Hemlock** the **[[Venipede]]** is Assistant [[Librarian]] to [[Relicanth]] in the [[Glaive Expedition Federation]], alongside a [[Rookie]] [[Explorer]] as part of [[Team Nova]]. It is 14 years old and hails from [[Paleo City]]. 
+**Hemlock** the **[[Venipede]]** is Assistant [[Librarian]] to [[Relicanth]] in the [[Glaive-Expedition-Federation|Glaive Expedition Federation]], alongside a [[Rookie]] [[Explorer]] as part of [[Team-Nova|Team Nova]]. It is 14 years old and hails from [[Paleo City]]. 
 
 Hemlock is rather [[Timid]], and often lost in thought.
 During its adventures, it has gained a [[Tera Factor]] of +1.
