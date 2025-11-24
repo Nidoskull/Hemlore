@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,11 +169,12 @@
   },
   "active": "65e5370ddd66dfab",
   "lastOpenFiles": [
-    "wiki/Hemlock's Father.md",
+    "wiki/Venipede (Species).md",
     "wiki/Hemlock the Venipede.md",
+    "wiki/Venipede.md",
+    "wiki/Hemlock's Father.md",
     "wiki/Explorer.md",
     "wiki/Relicanth.md",
-    "wiki/Venipede.md",
     "README.md",
     "wiki/Glaive Expedition Federation.md",
     "Ishy.md",
