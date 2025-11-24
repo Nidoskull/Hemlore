@@ -1,7 +1,7 @@
 # Hemlock, child of Belladonna
 ![[shime1.png]]
 ## General biography
-**Hemlock** the **[Venipede](/Hemlore/Venipede%20(Species))** is Assistant [Librarian](/Hemlore/Librarian) to [Relicanth](/Hemlore/Relicanth%20(Glaive%20Expedition%20Federation) in the [Glaive Expedition Federation](/Hemlore/Glaive%20Expedition%20Federation), alongside a [Rookie](/Hemlore/Rookie) [Explorer](/Hemlore/Explorer) as part of [Team Nova](/Hemlore/Team%20Nova). It is 14 years old and hails from [Paleo City](/Hemlore/Paleo%20City). 
+**Hemlock** the **[Venipede](/Hemlore/Venipede%20(Species))** is Assistant [Librarian](/Hemlore/Librarian) to [Relicanth](/Hemlore/Relicanth%20(Glaive%20Expedition%20Federation)) in the [Glaive Expedition Federation](/Hemlore/Glaive%20Expedition%20Federation), alongside a [Rookie](/Hemlore/Rookie) [Explorer](/Hemlore/Explorer) as part of [Team Nova](/Hemlore/Team%20Nova). It is 14 years old and hails from [Paleo City](/Hemlore/Paleo%20City). 
 
 Hemlock is rather [Timid](/Hemlore/Nature) , and often lost in thought.
 During its adventures, it has gained a [Tera Factor](/Hemlore/Terastalization) of +1.
