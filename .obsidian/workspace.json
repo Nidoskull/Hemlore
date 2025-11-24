@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "wiki/Hemlock the Venipede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hemlock the Venipede"
             }
           }
         ]
@@ -168,8 +168,14 @@
   },
   "active": "c6497e94f3b37a32",
   "lastOpenFiles": [
-    "wiki/example-page.md",
-    "new_page.md",
-    "README.md"
+    "assets/shime1.png",
+    "wiki/Hemlock the Venipede.md",
+    "templates/Character.md",
+    "wiki/Glaive Expedition Federation.md",
+    "templates",
+    "Untitled.base",
+    "README.md",
+    "_posts/2020-01-01-example-post.md",
+    "new_page.md"
   ]
 }
