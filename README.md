@@ -1,6 +1,6 @@
 # Welcome to Venipedia!
 
-This wiki is made possible through [git-wiki-theme](https://github.com/Drassil/git-wiki-theme) and its [skeleton](https://github.com/Drassil/git-wiki-skeleton) template. This project is headed primarily by [Hemlock the Venipede](wiki/Hemlock%20the%20Venipede.md), though occasional remarks from assistant [Ishy](wiki/Ishy%20the%20Fuecoco) or other members of the Guild may be added in as well.
+This wiki is made possible through [git-wiki-theme](https://github.com/Drassil/git-wiki-theme) and its [skeleton](https://github.com/Drassil/git-wiki-skeleton) template. This project is headed primarily by [Hemlock the Venipede](Hemlock%20the%20Venipede.md), though occasional remarks from assistant [Ishy](wiki/Ishy%20the%20Fuecoco) or other members of the Guild may be added in as well.
 
 If you're interested in helping this project, feel free to! [We are open-source](https://github.com/Nidoskull/Hemlore) and welcome any contributions!
 ## Goals
