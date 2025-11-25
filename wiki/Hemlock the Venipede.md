@@ -1,5 +1,5 @@
 # Hemlock, child of Belladonna
-![There's supposed to be an image here, but I'm not sure why it doesn't work.](assets/images/shime1.png)
+![There's supposed to be an image here, but I'm not sure why it doesn't work.](Hemlock.png)
 ## General biography
 **Hemlock** the **[Venipede](/Hemlore/Venipede%20(Species))** is Assistant [Librarian](/Hemlore/Librarian) to [Relicanth](/Hemlore/Relicanth%20(Glaive%20Expedition%20Federation)) in the [Glaive Expedition Federation](/Hemlore/Glaive%20Expedition%20Federation), alongside a [Rookie](/Hemlore/Rookie) [Explorer](/Hemlore/Explorer) as part of [Team Nova](/Hemlore/Team%20Nova). It is 14 years old and hails from [Paleo City](/Hemlore/Paleo%20City). 
 
@@ -17,6 +17,8 @@ Known relatives are:
 
 As one of Team Nova's founding members, it is good friends with [Neon the Tynamo](/Hemlore/Neon%20the%20Tynamo), [Gambit the Pawniard](/Hemlore/Gambit%20the%20Pawniard), [Aemilia the Rookidee](/Hemlore/Aemilia%20the%20Rookidee) and [Sheo the Gastly](/Hemlore/Sheo%20the%20Gastly).
 
+## History
+Hemlock lived in Paleo City for most of its childhood. Its mother, Belladonna, sent it to the Glaive Expedition Federation to aid it in its quest for knowledge, and to grow stronger than it could within the safe walls of its home.
 
 
 #### Tags:
