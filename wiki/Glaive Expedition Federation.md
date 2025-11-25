@@ -1,0 +1,38 @@
+# Glaive Expedition Federation
+![A golden badge depicting Baxcalibur.](assets/GEF_Badge.png)
+
+The **Glaive Expedition Federation** is a [Guild](Guild) based in [Dura Town](Dura%20Town). Founded by [Guildmaster Baxcalibur](Guildmaster%20Baxcalibur), it was originally located on [Guranbar Island](Guranbar%20Island) in [Kareblye](Kareblye).
+The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
+## Known Members
+_This list is incomplete. You can help by expanding it._
+- [Guildmaster Baxcalibur](Guildmaster%20Baxcalibur)
+- [Deputy Guildmaster Darmanitan](Darmanitan%20(Glaive%20Expedition%20Federation))
+- [Treasurer Dusknoir](Dusknoir%20(Glaive%20Expedition%20Federation))
+- [Lookout Swellow](Swellow%20(Glaive%20Expedition%20Federation))
+- [Librarian Relicanth](Relicanth%20(Glaive%20Expedition%20Federation))
+- [Machoke](Machoke%20(Glaive%20Expedition%20Federation))
+- [Ursaring](Ursaring%20(Glaive%20Expedition%20Federation))
+- [Litleo](Litleo%20(Glaive%20Expedition%20Federation))
+- [Steenee](Steenee%20(Glaive%20Expedition%20Federation))
+- [Sobble](Sobble%20(Glaive%20Expedition%20Federation))
+- [Hemlock the Venipede](Hemlock%20the%20Venipede)
+- [Gambit the Pawniard](Gambit%20the%20Pawniard)
+- [Neon the Tynamo](Neon%20the%20Tynamo)
+- [Pom the Honedge](Pom%20the%20Honedge)
+- [Amby the Mudkip](Amby%20the%20Mudkip)
+- [Mint the Chespin](Mint%20the%20Chespin)
+- [Titania the Tinkatink](Titania%20the%20Tinkatink)
+- [Kasi the Ralts](Kasi%20the%20Ralts)
+- [Ralmin the Bergmite](Ralmin%20the%20Bergmite)
+- [Volt the Shinx](Volt%20the%20Shinx)
+- [Jelly the Marill](Jelly%20the%20Marill)
+- [Mars the Larvitar](Mars%20the%20Larvitar)
+- [Gala the Morelull](Gala%20the%20Morelull)
+- [Elma the Poltchageist](Elma%20the%20Poltchageist)
+- [Razor the Gible](Razor%20the%20Gible)
+- [Georio the Geodude](Georio%20the%20Geodude)
+- [Geogi the Geodude](Geogi%20the%20Geodude)
+- [Arthur the Riolu](Arthur%20the%20Riolu)
+- [Aemilia the Rookidee](Aemilia%20the%20Rookidee)
+- [Ishy the Fuecoco](Ishy%20the%20Fuecoco)
+- [Sheo the Gastly](Sheo%20the%20Gastly)
