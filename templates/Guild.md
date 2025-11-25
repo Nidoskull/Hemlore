@@ -1,8 +1,9 @@
 # Name
-Badge
+Badge/other identifying thing
 
-Guild is a [Guild](/Hemlore/Guild) based in/near City. Founded in YEAR by FOUNDER, it is currently under leadership of GUILDMASTER.
-## Members
+GUILD is a [Guild](/Hemlore/Guild) based in/near City. Founded in YEAR by FOUNDER, it is currently under leadership of GUILDMASTER.
+GUILD focuses mainly on SUBJECT.
+## Known Members
 List of members.
 - Guildmaster
 - Deputy Guildmaster
@@ -11,6 +12,3 @@ List of members.
 - Lookout
 - Senior apprentice
 - Junior apprentice
-
-## Features
-
