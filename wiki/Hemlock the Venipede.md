@@ -9,6 +9,7 @@ It follows the teachings of [Uxie, Mindborne of Knowledge](Uxie).
 
 It speaks [Satojiran](Satojiri), alongside comprehending [Alo'lolan](Alo'lola). It possesses a [Tome of Tongues](Tome%20of%20Tongues).
 
+## Relationships
 Known relatives are:
 - [Belladonna the Scolipede](Belladonna%20the%20Scolipede) (Mother)
 - [Foxglove the Venipede](Foxglove%20the%20Venipede) (Sibling)
@@ -17,9 +18,11 @@ Known relatives are:
 
 As one of Team Nova's founding members, it is good friends with [Neon the Tynamo](Neon%20the%20Tynamo), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
 
+Because of various reasons, Hemlock doesn't really like the [Pan Trio](Pan%20Trio) or [Cofagrigus](Cofagrigus%20(Glorious%20Gold)).
+
 ## History
 Hemlock lived in Paleo City for most of its childhood. Its mother, Belladonna, sent it to the Glaive Expedition Federation to aid it in its quest for knowledge, and to grow stronger than it could within the safe walls of its home.
 
 
 #### Tags:
-#character #pc #glaiveexpeditionfederation #explorer
+#character #pc #glaiveexpeditionfederation #explorer #teamnova
