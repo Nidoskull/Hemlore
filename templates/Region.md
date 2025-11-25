@@ -1,7 +1,7 @@
 # Region Name
 World Map image
 
-**Region** is a region in the world, comprised of Landscape 
+**Region** is a region in the world, comprised of Landscape.
 
 ## Customs and Language
 Any fun things go here.

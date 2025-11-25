@@ -1,7 +1,7 @@
 # Name
 Badge/other identifying thing
 
-GUILD is a [Guild](/Hemlore/Guild) based in/near City. Founded in YEAR by FOUNDER, it is currently under leadership of GUILDMASTER.
+GUILD is a [Guild](/wiki/Guild) based in/near CITY. Founded in YEAR by FOUNDER, it is currently under leadership of GUILDMASTER.
 GUILD focuses mainly on SUBJECT.
 ## Known Members
 List of members.
