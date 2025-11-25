@@ -1,11 +1,11 @@
 # Full Name
 `Paste icon here`
 ## Description
-**Nickname** the **Species** is a **role** in **location**. First seen during **incident**, pronoun is **age** years old and hails from **home**. 
+**Nickname** the **Species** is a ROLE in LOCATION. First seen during INCIDENT, pronoun is AGE years old and hails from CITY. They have also been known as OLDNAMES.
 
 Indicative traits go here, such as Nature, Characteristic, height, but also personality, quirks and religion.
 
-pronoun speaks **languages**.
+pronoun speaks LANGUAGES.
 
 Known relatives are:
 - Relatives
@@ -19,4 +19,4 @@ pronoun does not like Enemy, Foe, and Badguy.
 Loose timeline goes here.
 
 #### Tags:
-#template #character #npc
+#template #adminpage #character #npc
