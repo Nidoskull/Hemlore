@@ -7,6 +7,7 @@ Indicative traits go here, such as Nature, Characteristic, height, but also pers
 
 pronoun speaks LANGUAGES.
 
+## Relationships
 Known relatives are:
 - Relatives
 - Go
