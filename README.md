@@ -8,4 +8,5 @@ The goal of Venipedia is to be an easily-understandable, but very comprehensive 
 If you find a page to be lacking in information, please open a [GitHub Issue](https://github.com/Nidoskull/issues) so I don't lose track of it.
 
 #### Categories/Tags
+The following things are on every page; they have no bearing on the actual wiki, but they make the Obsidian Vault look pretty.
 #landing #adminpage
