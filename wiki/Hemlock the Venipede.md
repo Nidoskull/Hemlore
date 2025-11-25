@@ -5,7 +5,7 @@
 
 Hemlock is rather [Timid](Nature) , and often lost in thought. It is unlabeled on the gender, romance and sexuality axes.
 During its adventures, it has gained a [Tera Factor](Terastalization) of +1.
-It follows the teachings of [Uxie, Mindborne of Knowledge](Uxie). 
+It follows the teachings of [Uxie, Mindborne of Knowledge](Uxie%20(Mythology)). 
 
 It speaks [Satojiran](Satojiri), alongside comprehending [Alo'lolan](Alo'lola). It possesses a [Tome of Tongues](Tome%20of%20Tongues).
 
