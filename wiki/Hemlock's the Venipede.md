@@ -1,5 +1,5 @@
 # Hemlock, child of Belladonna
-![There's supposed to be an image here, but I'm not sure why it doesn't work.](assets/Hemlock.png)
+![A polite Venipede. It has a blue Team Ribbon tied around its left antenna, and its shoulder markings are similar to parentheses. It is looking at you with wide-open eyes.](assets/Hemlock.png)
 ## General biography
 **Hemlock** the **[Venipede](Venipede%20(Species))** is Assistant [Librarian](Librarian) to [Relicanth](Relicanth%20(Glaive%20Expedition%20Federation)) in the [Glaive Expedition Federation](Glaive%20Expedition%20Federation), alongside a [Rookie](Rookie) [Explorer](Explorer) as part of [Team Nova](Team%20Nova). It is 14 years old and hails from [Paleo City](Paleo%20City). 
 
