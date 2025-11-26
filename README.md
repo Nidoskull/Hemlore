@@ -9,4 +9,5 @@ If you find a page to be lacking in information, please open a [GitHub Issue](ht
 
 #### Categories/Tags
 The following things are on every page; they have no bearing on the actual wiki, but they make the Obsidian Vault look pretty.
+
 #landing #adminpage
