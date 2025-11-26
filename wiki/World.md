@@ -16,7 +16,7 @@ A tropical region composed of several islands. Alo'lolan Pokémon have very dist
 ## Atransei
 _Main article: [Atransei](Atransei)_
 
-An island off the coast of [Hisinoh](Hisinoh), shaped peculiarly like [the One Above All](Arceus%20Myth). Pokémon from Atransei are often trained in some manner of weaponry.
+An island off the coast of [Hisinoh](Hisinoh), shaped peculiarly like [the One Above All](Arceus%20(Myth)). Pokémon from Atransei are often trained in some manner of weaponry.
 
 ## Cabodea
 _Main article: [Cabodea](Cabodea)_
@@ -79,7 +79,7 @@ A region consisting of several islands with stunning vistas. It prides itself on
 ## Lumalos
 _Main article: [Lumalos](Lumalos)_
 
-A modern region that sees lots of tourism. Unfortunately, Pokémon that come to see its capital may be surprised to find that the media flourishes it up a little. The Gods of the Natural Order ([Xerneas](Xerneas%20(Myth)), [Yveltal](Yveltal%20(Myth)) and [Zygarde](Zygarde_(Myth))) are especially venerated here, and Zygarde Themselves hold land in this region.
+A modern region that sees lots of tourism. Unfortunately, Pokémon that come to see its capital may be surprised to find that the media flourishes it up a little. The Gods of the Natural Order ([Xerneas](Xerneas%20(Myth)), [Yveltal](Yveltal%20(Myth)) and [Zygarde](Zygarde%20(Myth))) are especially venerated here, and Zygarde Themselves hold land in this region.
 
 ## Orhode
 _Main article: [Orhode](Orhode)_
