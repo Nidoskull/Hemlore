@@ -3,7 +3,9 @@ Physical description here.
 
 Notable features, such as level, usual weather/terrain, go here.
 ## Pokémon in this Dungeon
-- Pokémon (Level)
+| Pokémon | Level |
+| ------- | ----- |
+| Name    | 1     |
 
 ## Mission Reports
 - List of mission reports here, whether completed, failed, or secret third thing.
