@@ -14,22 +14,22 @@ _This list is incomplete. You can help by expanding it._
 - [Atransei](Atransei)
 - [Cabodea](Cabodea)
 - [Eastern Archipelago](Eastern%20Archipelago)
-- Fioras
+- [Fioras](Fioras)
 - [Galtunar](Galtunar)
 - [Hasorem](Hasorem)
 - [Hisinoh](Hisinoh)
 - [Hismiya](Hismiya)
 - [Isshu](Isshu)
-- Lentclic
+- [Lentclic](Lentclic)
 - [Kareblye](Kareblye)
 - [Korakita](Korakita)
 - [Krysivgo](Krysivgo)
 - [Lumalos](Lumalos)
-- Orhode
-- Rymopolis
+- [Orhode](Orhode)
+- [Rymopolis](Rymopolis)
 - [Satojiri](Satojiri)
-- Sevishima
-- Solfbivia
+- [Sevishima](Sevishima)
+- [Solfbivia](Solfbivia)
 
 ## Alo'lola
 _Main article: Alo'lola_
