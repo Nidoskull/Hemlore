@@ -18,6 +18,8 @@ Known relatives are:
 
 As one of Team Nova's founding members, it is good friends with [Neon the Tynamo](Neon%20the%20Tynamo), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
 
+Back in Archa City, it was part of a book club with [Dusty the Cubone](Dusty%20the%20Cubone).
+
 Because of various reasons, Hemlock doesn't really like the [Pan Trio](Pan%20Trio) or [Cofagrigus](Cofagrigus%20(Glorious%20Gold)).
 
 ## History
