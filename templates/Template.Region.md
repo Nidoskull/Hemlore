@@ -15,6 +15,8 @@ This is only really relevant for like, one or two regions.
 ## History and Myths
 Myths related to region go here.
 
+
+## Locations in Satojiri
 ### List of Guilds
 Guilds based in this region.
 ### List of cities
