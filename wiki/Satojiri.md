@@ -14,6 +14,11 @@ Treasure City is a large city, initially known as Treasure Town. It is best know
 ## History and Myths
 According to myths, Satojiri is where the [One Above](Arceus%20(Myth)) rested after creating the world. It is where [Mew](Mew%20(Myth)) created more mortal pokémon besides the [Twelve Originals](Original%20Twelve%20(Myth)), with guidance from the other legendaries, after [Regigigas](Regigigas%20(Myth)), [Groudon](Groudon%20(Myth)) and [Heatran](Heatran%20(Myth)) moved the continents into place following the [Primeval War](Primeval%20War%20(Myth)).
 
+Over 200 years ago, the [Queen of Shattered Crystals](Queen%20of%20Shattered%20Crystals) ruled over Satojiri. She ordered every [Tera Crystal](Tera%20Crystal) to be destroyed out of jealousy, leaving her the only mon around to change her Type at will due to her Ability. These orders were remarkably successful, and nowadays, few Tera Crystals remain in the region, with the locations of these Crystals remaining highly guarded.
+
+Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expedition Federation](Glaive%20Expedition%20Federation) have found a [Tera Seed](Tera%20Crystal), and have planted it in [Dura Town](Dura%20Town).
+
+## Locations in Satojiri
 ### List of Guilds
 - [Wigglytuff's Guild](Wigglytuff%27s%20Guild)
 - [Glaive Expedition Federation](Glaive%20Expedition%Federation)
@@ -27,20 +32,22 @@ According to myths, Satojiri is where the [One Above](Arceus%20(Myth)) rested af
 - [Anrama](Anrama)
 - [Carew City](Carew%20City)
 ### List of known Mystery Dungeons
-- Overlook Bluffs
-- Sunlit Meadows
-- Forlorn Forest
-- Secluded Coast
-- Limestone Plateau
-- Mount Maw
-- Trainee's Cave
-- Tanglegrove Ruins
-- Saltdepth Caverns
-- Anrama Wastes
-- Bronzetusk Quarry
-- Bog of Souls
-- Rusted Ironworks
-- Rumbling Wastes
+- [Anrama Wastes](Anrama%20Wastes)
+- [Bog of Souls](Bog%20of%20Souls)
+- [Bronzetusk Quarry](Bronzetusk%20Quarry)
+- [Forlorn Forest](Forlorn%20Forest)
+- [Limestone Plateau](Limestone%20Plateau)
+- [Mount Maw](Mount%20Maw)
+- [Overlook Bluffs](Overlook%20Bluffs)
+- [Rumbling Wastes](Rumbling%20Wastes)
+- [Rusted Ironworks](Rusted%20Ironworks)
+- [Saltdepth Caverns](Saltdepth%20Caverns)
+- [Secluded Coast](Secluded%20Coast)
+- [Sunlit Meadows](Sunlit%20Meadows)
+- [Trainee's Cave](Trainee%27s%20Cave)
+- [Tanglegrove Ruins](Tanglegrove%20Ruins)
+### List of other locations
+- [Cynebeorg](Cynebeorg) (Mountain)
 
 #### Tags:
-#adminpage #template #region #regionnamehere 
+#region #satojiri 
