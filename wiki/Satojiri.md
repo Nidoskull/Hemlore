@@ -50,6 +50,7 @@ Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expeditio
 - [Cynebeorg](Cynebeorg) (Mountain)
 - [Arcto River](Arcto%20River) (River)
 - [Dura River](Dura%20River) (River)
+- [Infernal Machine](Infernal%20Machine%20(Tale)) (Tale, actual location unknown; theorized to be in Satojiri)
 
 #### Tags:
 #region #satojiri 
