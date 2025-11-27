@@ -14,6 +14,7 @@ Team Orchard was founded by [Mint the Chespin](Mint%20the%20Chespin), [Amby the 
 
 
 ## Missions
+_It seems we're missing some Mission Reports... Help us fill in the gaps._
 - Orchard Report #001
 - Orchard Report #002
 - Joint Mission #001
