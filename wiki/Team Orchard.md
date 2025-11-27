@@ -1,5 +1,5 @@
 # Team Orchard
-Team Orchard was founded by [Mint the Chespin](Mint%20the%20Chespin), [Amby the Mudkip](Amby%20the%20Mudkip) and [Pom the Honedge](Pom%20the%20Honedge) in 6775 ISC.
+Team Orchard was founded by [Mint the Chespin](Mint%20the%20Chespin), [Amby the Mudkip](Amby%20the%20Mudkip) and [Pom the Honedge](Pom%20the%20Honedge) in 6775 ISC under the [Glaive Expedition Federation](Glaive%20Expedition%20Federation).
 
 ## Members
 ### Current Members
@@ -21,3 +21,7 @@ Team Orchard was founded by [Mint the Chespin](Mint%20the%20Chespin), [Amby the 
 - Orchard Report #004
 - Orchard Report #005
 - [Joint Mission #002](Report.Joint%20Expedition%202)
+
+#### Tags
+
+#teamorchard #landing #explorer #glaiveexpeditionfederation 
