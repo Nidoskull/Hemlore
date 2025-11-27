@@ -48,6 +48,8 @@ Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expeditio
 - [Tanglegrove Ruins](Tanglegrove%20Ruins)
 ### List of other locations
 - [Cynebeorg](Cynebeorg) (Mountain)
+- [Arcto River](Arcto%20River) (River)
+- [Dura River](Dura%20River) (River)
 
 #### Tags:
 #region #satojiri 
