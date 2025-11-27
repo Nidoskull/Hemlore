@@ -39,6 +39,7 @@ Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expeditio
 - [Limestone Plateau](Limestone%20Plateau)
 - [Mount Maw](Mount%20Maw)
 - [Overlook Bluffs](Overlook%20Bluffs)
+- [Rubedo Cliffs](Rubedo%20Cliffs)
 - [Rumbling Wastes](Rumbling%20Wastes)
 - [Rusted Ironworks](Rusted%20Ironworks)
 - [Saltdepth Caverns](Saltdepth%20Caverns)

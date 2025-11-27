@@ -17,7 +17,7 @@ _This list is incomplete. You can help by expanding it._
 - [Ursaring](Ursaring%20(Glaive%20Expedition%20Federation))
 - [Litleo](Litleo%20(Glaive%20Expedition%20Federation)) ([Litleo's Team](Litleo%27s%20Team))
 - [Steenee](Steenee%20(Glaive%20Expedition%20Federation)) ([Farigiraf's Team](Farigiraf%27s%20Team))
-- [Sobble](Sobble%20(Glaive%20Expedition%20Federation)) ([Sobble's Team](Sobble%27s%20Team))
+- [Drizzile](Drizzile%20(Glaive%20Expedition%20Federation)) ([Drizzile's Team](Drizzile%27s%20Team))
 - [Hemlock the Venipede](Hemlock%20the%20Venipede) ([Team Nova](Team%20Nova))
 - [Gambit the Pawniard](Gambit%20the%20Pawniard) (Team Nova)
 - [Neon the Tynamo](Neon%20the%20Tynamo) (Team Nova)
@@ -39,10 +39,11 @@ _This list is incomplete. You can help by expanding it._
 - [Aemilia the Rookidee](Aemilia%20the%20Rookidee) (Team Nova)
 - [Ishy the Fuecoco](Ishy%20the%20Fuecoco.md) (Team Orchard)
 - [Sheo the Gastly](Sheo%20the%20Gastly) (Team Nova)
+- [Bronze the Beldum](Bronze%20the%20Beldum) (Team Gummy)
 
 ### Former Members
-- [Tepig](Tepig%20(Glaive%20Expedition%20Federation)) (Sobble's Team)
-- [Bulbasaur](Bulbasaur%20(Glaive%20Expedition%20Federation)) (Sobble's Team)
+- [Tepig](Tepig%20(Glaive%20Expedition%20Federation)) (Drizzile's Team)
+- [Bulbasaur](Bulbasaur%20(Glaive%20Expedition%20Federation)) (Drizzile's Team)
 - [Tyrunt](Tyrunt%20(Glaive%20Expedition%20Federation)) (Litleo's Team)
 - [Farigiraf](Farigiraf%20(Glaive%20Expedition%20Federation)) (Farigiraf's Team)
 
@@ -54,7 +55,7 @@ In 6758 ISC (17 years ago), the Guild relocated to [Dura Town](Dura%20Town) and 
 
 [Team Roppyaku](Team%20Roppyaku) of the Guild met with [Team Profundo](Team%20Profundo) to stop [Zoroark the Unkillable](Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Infernal%20Machine%20(Tale).md). This event causes [Larvesta](Volcarona%20(Team%20Roppyaku)), [Arctibax](Guildmaster%20Baxcalibur), [Zweilous](Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Hydreigon%20(Team%20Profundo)) to evolve.
 
-It is unknown what exactly happened, but the team formed by [Sobble](Sobble%20(Glaive%20Expedition%20Federation)) loses two of its members in 6768 ISC (7 years ago).
+It is unknown what exactly happened, but the team formed by [Drizzile](Drizzile%20(Glaive%20Expedition%20Federation)) loses two of its members in 6768 ISC (7 years ago).
 
 During 6775 ISC's Dura Town Festival, Litleo is Pokénapped, and Dusknoir intervenes when [Regigigas](Regigigas) causes devastation.
 
