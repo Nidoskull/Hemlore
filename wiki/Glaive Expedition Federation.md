@@ -28,7 +28,7 @@ _This list is incomplete. You can help by expanding it._
 - [Kasi the Ralts](Kasi%20the%20Ralts) (Team Stamp Squad)
 - [Ralmin the Bergmite](Ralmin%20the%20Bergmite) (Team Stamp Squad)
 - [Volt the Shinx](Volt%20the%20Shinx) ([Team Gummy](Team%20Gummy))
-- [Jelly the Marill](Jelly%20the%20Marill) (Team Gummy)
+- [Jelly the Marill](Jelly%20Bean) (Team Gummy)
 - [Mars the Larvitar](Mars%20the%20Larvitar) (Team Gummy)
 - [Gala the Morelull](Gala%20the%20Morelull) (Team Orchard)
 - [Elma the Poltchageist](Elma%20the%20Poltchageist) (Team Orchard)
@@ -44,7 +44,7 @@ _This list is incomplete. You can help by expanding it._
 - [Tepig](Tepig%20(Glaive%20Expedition%20Federation)) (Sobble's Team)
 - [Bulbasaur](Bulbasaur%20(Glaive%20Expedition%20Federation)) (Sobble's Team)
 - [Tyrunt](Tyrunt%20(Glaive%20Expedition%20Federation)) (Litleo's Team)
-- [Farigiraf](Farigiraf%20(Glaive%20Expedition%20Federation))
+- [Farigiraf](Farigiraf%20(Glaive%20Expedition%20Federation)) (Farigiraf's Team)
 
 ## History
 
@@ -52,7 +52,7 @@ Originally based on [Guranbar Island](Guranbar%20Island), the Guild encountered 
 
 In 6758 ISC (17 years ago), the Guild relocated to [Dura Town](Dura%20Town) and heavily invested in the infrastructure of the town. It remains in this location since.
 
-[Team Roppyaku](Team%20Roppyaku) of the Guild met with [Team Profundo](Team%20Profundo) to stop [Zoroark the Unkillable](Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Infernal%20Machine%20(Myth)). This event causes [Larvesta](Volcarona%20(Team%20Roppyaku)), [Arctibax](Guildmaster%20Baxcalibur), [Zweilous](Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Hydreigon%20(Team%20Profundo)) to evolve.
+[Team Roppyaku](Team%20Roppyaku) of the Guild met with [Team Profundo](Team%20Profundo) to stop [Zoroark the Unkillable](Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Infernal%20Machine%20(Tale).md). This event causes [Larvesta](Volcarona%20(Team%20Roppyaku)), [Arctibax](Guildmaster%20Baxcalibur), [Zweilous](Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Hydreigon%20(Team%20Profundo)) to evolve.
 
 It is unknown what exactly happened, but the team formed by [Sobble](Sobble%20(Glaive%20Expedition%20Federation)) loses two of its members in 6768 ISC (7 years ago).
 
