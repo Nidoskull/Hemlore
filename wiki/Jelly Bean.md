@@ -30,4 +30,4 @@ At some point, Evangeline decided to enroll Jelly into the Glaive Expedition Fed
 The same love that gave Jelly a chance at life let him [Evolve](Evolution) despite the mystery of Mew's darkness afflicting the whole Guild.
 
 #### Tags:
-#template #adminpage #character #npc
+#character #pc #teamgummy #glaiveexpeditionfederation 
