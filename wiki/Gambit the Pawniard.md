@@ -1,5 +1,6 @@
 # Gambit the Pawniard
-`Paste icon here`
+![A Pawniard glares at the camera, looking cool. He wears a blue bandana like a cape.](assets/IconGambit.png)
+
 ## Description
 **Gambit** the **[Pawniard](Pawniard%20(Species))** is a rookie explorer as part of [Team Nova](Team%20Nova). He is 15 years old and hails from [Isshu](Isshu), having moved frequently in his youth.
 

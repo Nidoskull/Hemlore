@@ -1,5 +1,5 @@
 # Glaive Expedition Federation
-![A golden badge depicting Baxcalibur.](assets/GEF_Badge.png)
+![A golden badge depicting Baxcalibur.](assets/BadgeGlaiveExplorationFederation.png)
 _"To seek the worlds beyond our own understanding, to help those beyond our own circles, to become greater together than we are on our own."_
 
 The **Glaive Expedition Federation** is a [Guild](Guild) based in [Dura Town](Dura%20Town). Founded by [Guildmaster Baxcalibur](Guildmaster%20Baxcalibur), it was originally located on [Guranbar Island](Guranbar%20Island) in [Kareblye](Kareblye).
@@ -37,7 +37,7 @@ _This list is incomplete. You can help by expanding it._
 - [Geogi the Geodude](Geogi%20the%20Geodude) (Team Orchard)
 - [Arthur the Riolu](Arthur%20the%20Riolu) (Team Gummy)
 - [Aemilia the Rookidee](Aemilia%20the%20Rookidee) (Team Nova)
-- [Ishy the Fuecoco](Ishy%20the%20Fuecoco) (Team Orchard)
+- [Ishy the Fuecoco](Ishy%20the%20Fuecoco.md) (Team Orchard)
 - [Sheo the Gastly](Sheo%20the%20Gastly) (Team Nova)
 
 ### Former Members
