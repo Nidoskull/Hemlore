@@ -12,3 +12,6 @@ List of members.
 - Lookout
 - Senior apprentice
 - Junior apprentice
+#### Tags
+
+#template  #adminpage#guild
