@@ -1,11 +1,11 @@
 # Aemilia the Rookidee
 `Paste icon here`
 ## Description
-**Aemilia** the **[Rookidee](Rookidee%20(Species))** is an explorer as part of [Team Nova](Team%20Nova). First seen during [Nova Mission #3], she is 22 years old and hails from [Carew City](Carew%20City), from 6,000 years ago. 
+**Aemilia** the **[Rookidee](Rookidee%20(Species))** is an ally explorer as part of [Team Nova](Team%20Nova). First seen during [Nova Mission #3], she is 22 years old and hails from [Carew City](Carew%20City), from 6,000 years ago. 
 
 She has silver bands around her legs and wears a [Rooki-Wreath](Exclusive%20Items). She is quite [Impish](Nature).
 
-Aemilia speaks Satojiran.
+Aemilia speaks [Satojiran](Satojiri).
 
 ## Relationships
 Known relatives are:
@@ -23,4 +23,4 @@ During Team Nova's little time adventure, Aemilia aided Team Nova by lying to [B
 Aemilia joined us on [Nova Mission #004](Report.Nova%20Mission%204). 
 
 #### Tags:
-#character #npc #teamnova
+#character #npc #teamnova #ally
