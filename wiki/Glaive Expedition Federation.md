@@ -41,6 +41,7 @@ _This list is incomplete. You can help by expanding it._
 - [Ishy the Fuecoco](Ishy%20the%20Fuecoco.md) (Team Orchard)
 - [Sheo the Gastly](Sheo%20the%20Gastly) (Team Nova)
 - [Bronze the Beldum](Bronze%20the%20Beldum) (Team Gummy)
+- [Djefatgoobti Meritxernen Akekhselkis](Djefatgoobti%20Meritxernen%20Akekhselkis) (Team Gummy)
 
 ### Former Members
 - [Tepig](Tepig%20(Glaive%20Expedition%20Federation)) (Drizzile's Team)
