@@ -12,3 +12,5 @@ TEAMNAME was founded by NAME and NAME in YEAR.
 ## Missions
 TEAMNAME focuses mainly on MISSIONTYPE.
 - TEAMNAME Report #000
+#### Tags:
+#template #adminpage #teamnamehere #guildnamehere

@@ -14,4 +14,4 @@ List of members.
 - Junior apprentice
 #### Tags
 
-#template  #adminpage#guild
+#template  #adminpage #guild #guildnamehere
