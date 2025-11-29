@@ -7,6 +7,11 @@ For unknown reasons, certain areas in the world are prone to spontaneous manifes
 
 Many Pokémon have banded together in [Guilds](Guild) to aid those who need help. Guilds consist of adventurous Pokémon not afraid of danger if it means they can help keep Pokémon safe.
 
+# Calendar
+Several calendars are still in use around the world, however most Pokémon are at minimum aware of the Interregional Standard Calendar. Some underwater civilizations follow Annuls Kyambrie, for example.
+
+The Interregional Standard Calendar follows a fifteen-month year. One month at the summer solstice is but seven days long, and one month at the winter solstice is, too. All other months have twenty-seven days. When needed, one extra day is added to the last month of the year, known as [Giratina's Day](Giratina%20(Myth)). Weeks are seven days, and days are twenty-four hours long.
+
 # List of Regions
 ## Alo'lola
 _Main article: [Alo'lola](Alo%27lola)_
