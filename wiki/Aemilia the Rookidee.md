@@ -23,4 +23,4 @@ During Team Nova's little time adventure, Aemilia aided Team Nova by lying to [B
 Aemilia joined us on [Nova Mission #004](Report.Nova%20Mission%204). 
 
 #### Tags:
-#character #npc #teamnova #ally
+#character #npc #glaiveexpeditionfederation #explorer #ally #teamnova

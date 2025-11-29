@@ -19,4 +19,4 @@ As founding member of Team Nova, Gambit is of course close with [Hemlock the Ven
 Gambit was born to a squadron, laid by [Kingambit](Kingambit%20(Gambit%27s%20Mother)) and sired by [Kasparov](Kasparov%20the%20Bisharp). The squadron he belonged to did not usually remain in one place for long, preferring to remain mobile and mobilized. 
 
 #### Tags:
- #character #pc #teamnova #glaiveexpeditionfederation 
+#character #pc #glaiveexpeditionfederation #explorer #teamnova

@@ -21,4 +21,4 @@ As member of Team Orchard, Ishy is of course friends with [Mint](Mint%the%20Ches
 If I knew anything about Ishy's past, this is where I'd put it.
 
 #### Tags:
- #character #npc #teamorchard #ally
+#character #npc #glaiveexpeditionfederation #explorer #ally #teamorchard

@@ -25,4 +25,4 @@ Finding its way to Dura Town, Neon manages to join the guild.
 On a mission to [Casa Victoria](Casa%20Victoria), Neon learns that it's a Shiny in the most traumatizing way possible (through monkey hand in brain). 
 
 #### Tags:
-#template #adminpage #character #npc
+#character #pc #glaiveexpeditionfederation #explorer #teamnova

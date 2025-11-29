@@ -16,4 +16,4 @@ Razor is a part of Team Stamp Squad, and would chomp for [Thinky Friend](Kasi%20
 Very little is known about Razor's past. It was recruited by Team Stamp Squad in Mount Maw by being fed a Pecha Berry, and has since gone on many a mission.
 
 #### Tags:
-#character #npc #teamstampsquad #ally
+#character #npc #glaiveexpeditionfederation #explorer #ally #teamstampsquad
