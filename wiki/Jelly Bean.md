@@ -16,7 +16,7 @@ Known relatives are:
 - [Daimon the Ampharos](Daimon%20the%20Ampharos) (adoptive uncle figure, not blood related)
 - [Quaggy the Quagsire](Quaggy%20the%20Quagsire) (adoptive brother figure, not blood related)
 
-As one of the founders of Team Gummy, Jelly is close to [Mars the Larvitar](Mars%20the%20Larvitar), [Volt the Shinx](Volt%20the%20Shinx) and [Arthur the Riolu](Arthur%20the%20Riolu).
+As one of the founders of Team Gummy, Jelly is close to [Mars the Larvitar](Mars%20the%20Larvitar), [Volt the Shinx](Volt%20the%20Shinx), [Arthur the Riolu](Arthur%20the%20Riolu) and [Djefatgoobti Meritxernen Akekhselkis](Djefatgoobti%20Meritxernen%20Akekhselkis)
 
 ## History
 Jelly's egg had some complications before hatching. However, thanks to Evangeline's unconditional love, and the support of Daimon, and a little help from [Giratina](Giratina%20(Myth)), he became the little blue boy we know nowadays.
