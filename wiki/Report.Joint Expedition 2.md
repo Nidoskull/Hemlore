@@ -18,4 +18,4 @@ On floor 3, we encounter [Arcanine](Arcanine%20(Bounty%20Hunter)). Sobble grabs 
 
 #### Tags:
 
-#template #adminpage #rubedocliffs #jointexpedition #teamsobble #teamnova #teamgummy #teamorchard
+ #rubedocliffs #jointexpedition #teamsobble #teamnova #teamgummy #teamorchard #missionreport
