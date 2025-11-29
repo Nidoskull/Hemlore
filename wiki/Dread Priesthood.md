@@ -3,7 +3,7 @@ The **Dread Priesthood** is a religious group, possibly a cult, focused on sprea
 
 The average laymon has a highly negative opinion of this group due to aforementioned goals of spreading fear and uproar. 
 
-They are, allegedly, an ancient order that dates back to not long after the original Fell Beasts were defeated. Not much has been seen of the Dread Priesthood in recent years after [Vulcan](Vulcan%20(Rescuer)) and [Sakura](Sakura%20(Rescuer)) went on a mission to rescue victims intended to be used in one of their rituals, and apprehended their entire old leadership group ten-to-eleven years ago.
+They are, allegedly, an ancient order that dates back to not long after the original Fell Beasts were defeated. Not much has been seen of the Dread Priesthood in recent years after Rescue Heads [Vulcan](Rescue%20Head%20Vulcan) and [Sakura](Rescue%20Head%20Sakura) went on a mission to rescue victims intended to be used in one of their rituals, and apprehended their entire old leadership group ten-to-eleven years ago.
 
 ## Known Members
 No current members are known. 
