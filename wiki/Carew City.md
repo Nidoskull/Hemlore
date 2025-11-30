@@ -12,7 +12,7 @@ Though the exact time is unknown, at most a few years before 832 ISC, [Matidia](
 
 In 832 ISC, Team Nova appears from a Time Rift and gets involved in a revolutionary plot to dethrone the false Basileus [Fictusilva](Basileus%20Fictusilva). Thanks to [Neon](Neon%20the%20Tynamo)'s and [Ladon](Ladon%20the%20Dipplin)'s [Shiny Surge](Shiny), the true Basilinna is restored to life - Matidia retakes her crown. The newly-revived Basilinna sends Team Nova back home.
 
-Thanks to this change of history, Carew City did not fall to nearly as dramatic of ruin as Fictusilva would have led it to. Over the course of the next several thousand years, Carew would remain intact, though it would of course change as the times around it changed too.
+Due to this change of history, Carew City did not fall to nearly as dramatic of ruin as Fictusilva would have led it to. Over the course of the next several thousand years, Carew would remain intact, though it would of course change as the times around it changed too.
 
 In 6775 ISC, Team Nova goes on the time adventure you just read about.
 
