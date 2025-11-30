@@ -1,5 +1,5 @@
 # Neon the Tynamo
-![A Shiny Tynamo looks at you smugly.](assets/IconNeon.png)
+![A Shiny Tynamo looks at you smugly. It wears a blue ribbon just behind their face.](assets/image/IconNeon.png)
 ## Description
 **Neon** the [Shiny](Shiny) **[Tynamo](Tynamo%20(Species))** is a rookie adventurer that's part of [Team Nova](Team%20Nova). Washed ashore near [Dura Town](Dura%20Town), it is 16 years old and was born in the oceans near [Sofbivia](Sofbivia). They have also been known as Ty and Tynamite before he chose its name.
 

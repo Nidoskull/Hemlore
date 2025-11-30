@@ -1,5 +1,5 @@
 # Aemilia the Rookidee
-![A Rookidee looks at the camera.](assets/IconAllyAemilia.png)
+![A Rookidee looks at the camera.](assets/image/IconAllyAemilia.png)
 ## Description
 **Aemilia** the **[Rookidee](Rookidee%20(Species))** is an ally explorer as part of [Team Nova](Team%20Nova). First seen during [Nova Mission #3], she is 22 years old and hails from [Carew City](Carew%20City), from 6,000 years ago. 
 

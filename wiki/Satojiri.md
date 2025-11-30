@@ -1,5 +1,5 @@
 # Satojiri
-![Satojiri's map, with several locations marked.](assets/MapSatojiri.png)
+![Satojiri's map, with several locations marked.](assets/image/MapSatojiri.png)
 
 **Satojiri** is a region in the world.
 
