@@ -1,0 +1,24 @@
+# Team Nova 🌠
+Team Nova was founded by [Hemlock the venipede](https://nidoskull.github.io/Hemlore/Hemlock%20the%20Venipede), [Neon the tynamo](https://nidoskull.github.io/Hemlore/Neon%20the%20Tynamo) and [Gambit the pawniard](https://nidoskull.github.io/Hemlore/Gambit%20the%20Pawniard) in 6775 ISC under the [Glaive Expedition Federation](https://nidoskull.github.io/Hemlore/Glaive%20Expedition%20Federation).
+
+## Members
+### Current Members
+- [Hemlock the venipede](https://nidoskull.github.io/Hemlore/Hemlock%20the%20Venipede)
+- [Neon the tynamo](https://nidoskull.github.io/Hemlore/Neon%20the%20Tynamo)
+- [Gambit the pawniard](https://nidoskull.github.io/Hemlore/Gambit%20the%20Pawniard)
+- [Aemilia the rookidee](https://nidoskull.github.io/Hemlore/Aemilia%20the%20Rookidee)
+- [Sheo the ghastly]()
+
+## Missions
+- Nova Report #001
+- Nova Report #002
+- Nova Report #003
+- Nova Report #004 
+
+## Trivia
+- Nova has spent the longest time not getting any allies 
+  - because none of them knew how the ally system worked then
+- Nova is also the only team with only scripted allies
+
+#### Tags:
+#template #adminpage #teamnova #glaiveexpeditionfederation
