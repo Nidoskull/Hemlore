@@ -1,4 +1,4 @@
-# Full Name
+# !TEMPLATE! Full Name
 `Paste icon here`
 ## Description
 **Nickname** the **Species** is a ROLE in LOCATION. First seen during INCIDENT, pronoun is AGE years old and hails from CITY. They have also been known as OLDNAMES.

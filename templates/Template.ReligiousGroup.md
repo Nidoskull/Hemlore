@@ -1,4 +1,4 @@
-# GROUPNAME
+# !TEMPLATE! GROUPNAME
 GROUPNAME is a religious group focused on TOPIC. They were first encountered by a rookie team in MISSIONREPORT.
 
 As part of their beliefs, GROUPNAME worships LEGENDARY. Their stated goal is GOAL, which they chase by doing ACTION.

@@ -1,4 +1,4 @@
-# Name
+# !TEMPLATE! Guild
 Badge/other identifying thing
 
 GUILD is a [Guild](Guild) based in/near CITY. Founded in YEAR by FOUNDER, it is currently under leadership of GUILDMASTER.

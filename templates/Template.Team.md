@@ -1,4 +1,4 @@
-# Team TEAMNAME
+# !TEMPLATE! Team TEAMNAME
 TEAMNAME was founded by NAME and NAME in YEAR.
 
 ## Members

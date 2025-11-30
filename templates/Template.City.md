@@ -1,4 +1,4 @@
-# City
+# !TEMPLATE! City
 Image with correct vibes
 
 **Name** is a city in **region**, established in YEAR under FOUNDER. Physical description here.

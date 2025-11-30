@@ -1,4 +1,4 @@
-# Mission Report: Team TEAM #000
+# !TEMPLATE! Mission Report: Team TEAM #000
 Team: TEAMNAME
 Members: MEMBER, LEVEL, MEMBER, LEVEL, etc
 Missions: MISSION 1, MISSION 2, etc

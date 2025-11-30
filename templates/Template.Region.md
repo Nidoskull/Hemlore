@@ -1,4 +1,4 @@
-# Region Name
+# !TEMPLATE! Region
 World Map image
 
 **Region** is a region in the world, comprised of Landscape.
