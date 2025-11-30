@@ -1,7 +1,11 @@
 # Mission Report: Team Gummy #004
-Team: Gummy
-Members: [Volt](Volt%20the%20Shinx) (level 15), [Jelly](Jelly%20Bean) (level ??), [Mars](Mars%20the%20Larvitar) (level ??), [Arthur](Arthur%20the%20Riolu) (level ??)
-Missions: Bounty: Bucktooth Gang
+**Dungeon**: [Secluded Coast](Secluded%20Coast)
+
+**Team**: [Gummy](Team%20Gummy)
+
+**Members**: [Volt](Volt%20the%20Shinx) (level 15), [Jelly](Jelly%20Bean) (level ??), [Mars](Mars%20the%20Larvitar) (level ??), [Arthur](Arthur%20the%20Riolu) (level ??)
+
+**Missions**: Bounty: Bucktooth Gang
 
 ---
 _This report is missing... the following is a partial reconstruction by Hemlock._

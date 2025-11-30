@@ -1,10 +1,14 @@
 # Mission Report: Joint Expedition #002
-Team: Multiple; includes Sobble, Team Nova, Team Orchard, Team Gummy
-Members: Sobble (Level 20), Hemlock (Level 14), Neon (Level 14), Gambit (Level 14), Mint (Level 19?), Volt (Level 13)
-Mission: Senior mission at Rubedo Cliffs
+**Dungeon**: [Rubedo Cliffs](Rubedo%20Cliffs)
+
+**Team**: Multiple; includes [Sobble](Drizzile%20(Glaive%20Expedition%20Federation)), [Team Nova](Team%20Nova), [Team Orchard](Team%20Orchard), [Team Gummy](Team%20Gummy)
+
+**Members**: [Sobble](Drizzile%20(Glaive%20Expedition%20Federation)) (Level 20), [Hemlock](Hemlock%20the%20Venipede) (Level 14), [Neon](Neon%20the%20Tynamo) (Level 14), [Gambit](Gambit%20the%20Pawniard) (Level 14), [Mint](Mint%20the%20Chespin) (Level 19?), [Volt](Volt%20the%20Shinx) (Level 13)
+
+**Mission**: Senior mission at Rubedo Cliffs
 
 ---
-The Teams arrive at Rubedo Cliffs. The dungeon's cliffs are imposing and crawling with pokémon.
+The Teams arrive at Rubedo Cliffs. The dungeon's cliffs are imposing and crawling with Pokémon.
 
 Mint and Hemlock find a back route on floor 1, but a barrier in the way is charged with Water-type energy. Neon hits it with Spark, breaking it down and leading to the stairs. 
 
