@@ -10,6 +10,7 @@ Aemilia speaks [Satojiran](Satojiri).
 ## Relationships
 Known relatives are:
 - [Aemilia's Ex](Aemilia%27s%20Ex) (do not ask about it)
+- [Aemilia's Great-Grandfather](Aemilia%27s%20Great-Grandfather) 
 
 As a member of Team Nova, Aemilia is friends with [Hemlock the Venipede](Hemlock%20the%20Venipede), [Gambit the Pawniard](Gambit%the%Pawniard), [Neon the Tynamo](Neon%20the%20Tynamo), and [Sheo the Gastly](Sheo%20the%20Gastly).
 
