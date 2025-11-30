@@ -7,3 +7,10 @@ It normally [evolves](Evolution) into SPECIES2 at LEVEL.
 | Move | Level |
 | ------- | ----- |
 | Name    | 1     |
+
+## Notable mons
+
+- among us
+
+#### Tags:
+#template #adminpage #landing #species #speciesnamehere
