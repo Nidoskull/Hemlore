@@ -1,9 +1,9 @@
 # Mission Report: Team Nova #001
-Dungeon: Sunlit Meadows
+**Dungeon**: Sunlit Meadows
 
-Members: [Hemlock](Hemlock%20the%20Venipede) (level 5), [Neon](Neon%20the%20Tynamo) (level 6), [Gambit](Gambit%20the%20Pawniard) (level 5)
+**Members**: [Team Nova](https://nidoskull.github.io/Hemlore/Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 5), [Neon](Neon%20the%20Tynamo) (level 6), [Gambit](Gambit%20the%20Pawniard) (level 5)
 
-Missions: Item retrieval - Spoink's orb
+**Missions**: Item retrieval - Spoink's orb
 
 ---
 As the sun rains down on our trio of intrepid heroes, the faint sound of buzzing Combee and galloping Skiddo disrupts the silence of the Sunlit Meadows.
