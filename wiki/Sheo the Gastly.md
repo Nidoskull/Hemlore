@@ -10,7 +10,7 @@ She speaks in emojis.
 ## Relationships
 Sheo has no known relatives, but may be related to the [Gengar from Rescue Team](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon)#In_the_spin-off_games), as [Team Meanie](https://bulbapedia.bulbagarden.net/wiki/Team_Meanies)'s Arbok is the one informing Guildmaster Baxcalibur about her, and/or Jeff the Gengar & Esnorb the Metagross from PCS Eggvent 1
 
-As a member of Team Nova, Aemilia is friends with [Hemlock the Venipede](https://nidoskull.github.io/Hemlore/Hemlock%20the%20Venipede), [Gambit the Pawniard](https://nidoskull.github.io/Hemlore/Gambit%20the%20Pawniard), [Neon the Tynamo](https://nidoskull.github.io/Hemlore/Neon%20the%20Tynamo), and [Aemilia the Rookiedee](https://nidoskull.github.io/Hemlore/Aemilia%20the%20Rookidee).
+As a member of Team Nova, Sheo is friends with [Hemlock the Venipede](https://nidoskull.github.io/Hemlore/Hemlock%20the%20Venipede), [Gambit the Pawniard](https://nidoskull.github.io/Hemlore/Gambit%20the%20Pawniard), [Neon the Tynamo](https://nidoskull.github.io/Hemlore/Neon%20the%20Tynamo), and [Aemilia the Rookiedee](https://nidoskull.github.io/Hemlore/Aemilia%20the%20Rookidee).
 
 Additionally, she knows [Vulcan the Charizard](Vulcan%20the%20Charizard), and an unknown Pokemon is after her
 
