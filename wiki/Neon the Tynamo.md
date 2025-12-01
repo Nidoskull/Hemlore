@@ -12,17 +12,24 @@ Neon has no known relatives due to the whole The Ocean and The Currents thing.
 
 As founding member of Team Nova, Neon is close to [Hemlock the Venipede](Hemlock%20the%20Venipede), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
 
-It used to know a pair of misfits back in the day, [Blink the Inkay] and [Blaster the Octillery]. Additionally, it knows a [Magnemite](Magnemite%20(Treasure%20City)) over in [Treasure City](Treasure%20City)
+It used to know a pair of misfits back in the day, [Blink the Inkay] and [Blaster the Octillery], as well as a [Magnemite](Magnemite%20(Treasure%20City)) over in [Treasure City](Treasure%20City)
+
+Additionally, as a shiny she has a psychic link with [Victini](Victini), who is able to grant it the power of [Shiny Surge](Shiny Surge) in dungeon.
+
 ## History
-Sadly, Neon doesn't know much about its own past. His earliest memory is swimming near Sofblivia, where they met a duo, [Blink](Blink%20the%20Inkay) and [Blaster](Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace.
+Not much is know of her past. On of his earliest memory is swimming near Sofblivia, where they met a duo, [Blink](Blink%20the%20Inkay) and [Blaster](Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace. Some months of this later, the now-trio was causing problems for the local Wingull population when a storm broke out. The waves dragged Neon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Latias) found it, telling it of the [Glaive Exploration Federation](Glaive%20Exploration%20Federation) as they flew to safety.
 
-Some months of this later, the now-trio was causing problems for the local Wingull population when a storm broke out. The waves dragged Neon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Latias) found it, telling it of the [Glaive Exploration Federation](Glaive%20Exploration%20Federation) as they flew to safety.
-
-Though Neon cannot place *when* this memory occurred, they encountered [Zygarde](Zygarde%20(Myth))'s flames during a time of need, when some form of icky film threatened to drown him. Zygarde burnt away the sludge, saving Neon in the process.
+During it's travel, they encountered [Zygarde](Zygarde%20(Myth))'s flames during a time of need, when some form of icky film threatened to drown him. Zygarde burnt away the sludge, saving Neon in the process.
 
 Finding its way to Dura Town, Neon manages to join the guild.
 
-On a mission to [Casa Victoria](Casa%20Victoria), Neon learns that it's a Shiny in the most traumatizing way possible (through monkey hand in brain). 
+During a guild mission in [Casa Victoria](Casa%20Victoria), Neon was suspected of being a card-cheat by a Murkrow after winning 2 games of Uno in a row. [Munkidori](Munkidori) of the Loyal Three put his whole hand in it's brain to see his memories, and found out she had no idea it was shiny. Instead of being exploded on the spot it was left alone since they didn't know, but anything Neon won was repossed, while it was unconssious and unable to object after having a whole hand in his brain,,,
+Neon is since unable to gamble ever again until it's luck is chained, much to his dismay,,,
+
+After an attack on the guild by Deima the Tyranitar - where Neon shatters it's effigy with an unnexplained Twinkle Tackle, High Magistrate Zygarde shows up to grant Neon (then still named Ty) a new name. 
+
+### See also:
+Neon's ToyHouse page
 
 #### Tags:
-#character #pc #glaiveexpeditionfederation #explorer #teamnova
+#character #pc #glaiveexpeditionfederation #explorer #teamnova #tynamo
