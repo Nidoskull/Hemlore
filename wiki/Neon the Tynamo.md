@@ -14,7 +14,7 @@ As founding member of Team Nova, Neon is close to [Hemlock the Venipede](Hemlock
 
 It used to know a pair of misfits back in the day, [Blink the Inkay] and [Blaster the Octillery], as well as a [Magnemite](Magnemite%20(Treasure%20City)) over in [Treasure City](Treasure%20City)
 
-Additionally, as a shiny she has a psychic link with [Victini](Victini), who is able to grant it the power of [Shiny Surge](Shiny Surge) in dungeon.
+Additionally, as a shiny she has a psychic link with [Victini](Victini), who is able to grant it the power of [Shiny Surge](https://nidoskull.github.io/Hemlore/shiny%20surge) in dungeon.
 
 ## History
 Not much is know of her past. On of his earliest memory is swimming near Sofblivia, where they met a duo, [Blink](Blink%20the%20Inkay) and [Blaster](Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace. Some months of this later, the now-trio was causing problems for the local Wingull population when a storm broke out. The waves dragged Neon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Latias) found it, telling it of the [Glaive Exploration Federation](Glaive%20Exploration%20Federation) as they flew to safety.
