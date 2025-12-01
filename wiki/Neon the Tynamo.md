@@ -29,7 +29,7 @@ Neon is since unable to gamble ever again until it's luck is chained, much to hi
 After an attack on the guild by Deima the Tyranitar - where Neon shatters it's effigy with an unnexplained Twinkle Tackle, High Magistrate Zygarde shows up to grant Neon (then still named Ty) a new name. 
 
 ### See also:
-Neon's ToyHouse page
+[Neon's ToyHouse page](https://toyhou.se/26725618.neon)
 
 #### Tags:
 #character #pc #glaiveexpeditionfederation #explorer #teamnova #tynamo
