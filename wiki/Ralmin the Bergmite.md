@@ -1,7 +1,7 @@
 # Ralmin the Bergmite
 `Paste icon here`
 ## Description
-**Ralmin** the **[Bergmite](Bergmite%20(Species))** is a rookie explorer that founded [Team Stamp Squad](Team%20Stamp%20Squad). He is 15 years old and from an unknown [Flow](Avalugg%20(Species)).
+**Ralmin** the **[Bergmite](Bergmite%20(Species))** is a rookie explorer that founded [Team Stamp Squad](Team%20Stamp%20Squad). He is 15 years old and from an unknown [Flow](Avalugg%20(Species)), likely from the [Polar Sea](Polar%20Sea).
 
 Ralmin wears their team bandana around his waist, making him look a little like sushi. They have white stripes in their ice, and his iceberg is shaped almost like a Basculegion's jaw. He often seems nervous. Ralmin has notably terrible charisma.
 
