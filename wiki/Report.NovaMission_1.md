@@ -1,7 +1,7 @@
 # Mission Report: Team Nova #001
 **Dungeon**: [Sunlit Meadows]()
 
-**Members**: [Team Nova](Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 5), [Neon](Neon%20the%20Tynamo) (level 6), [Gambit](Gambit%20the%20Pawniard) (level 5)
+**Members**: [Team_Nova](Team_Nova): [Hemlock](Hemlock_the_Venipede) (level 5), [Neon](Neon_the_Tynamo) (level 6), [Gambit](Gambit_the_Pawniard) (level 5)
 
 **Missions**: Item retrieval - Spoink's orb
 
