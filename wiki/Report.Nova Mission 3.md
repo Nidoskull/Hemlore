@@ -1,7 +1,7 @@
 # Mission Report: Team Nova #003
 **Dungeon:** [Tanglegrove Ruins](Tanglegrove%20Ruins)
 
-**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 11), [Ty*](Neon%20the%20Tynamo) (level 11), [Gambit](Gambit%20the%20Pawniard) (level 10). [Team Stamp Squad](Team%20Stamp%20Squad): [Razor](Razor%20the%20Gible) (level ?).
+**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 11), [Ty*](Neon%20the%20Tynamo) (level 11), [Gambit](Gambit%20the%20Pawniard) (level 10). [Team Stamp Squad](Team%20Stamp%20Squad): [Razor](Razor%20the%20Gible) (level 10).
 
 **Missions:** Bounty: Beedrill & Dottler muggers
 
@@ -67,7 +67,7 @@ When the group returns, Tanglewood Grove is... Gone. Instead turned into, Tangle
 
 From the crowd, Wormwood, Betula, and a big Gible welcome us back. She was found by a scouting team in the Mystery Dungon within the old city ruins. Wormwood tells us about the new Basilinnia, also named Matidia, and how Brutus is still alive protecting the throne. Libanos and Ladon decide to stay behind to catch up.
 
-We haven't slept in over 24 hours without seeing morning and all four of us get back to the guild using the Explorer Badge.
+We haven't slept in over 24 hours without seeing morning and all five of us get back to the guild using the Explorer Badge.
 
 #### Tags:
 
