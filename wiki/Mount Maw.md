@@ -1,11 +1,11 @@
 # Mount Maw (Dungeon)
-**Mount Maw** is a volcanic [Mystery Dungeon](Mystery-Dungeon) beyond the [Forlorn Forest](Forlorn-Forest) in [Satojiri](Satojiri), consisting of 11 floors above ground.
+**Mount Maw** is a volcanic [Mystery Dungeon](Mystery%20Dungeon) beyond the [Forlorn Forest](Forlorn%20Forest) in [Satojiri](Satojiri), consisting of 11 floors above ground.
 
 It is a large active volcano, with skies often covered in smog. Many Fire, Rock and Dragon types enjoy this climate.
 
 This Dungeon has a suggested level of at least 15.
 
-Mount Maw was the first place we met [Menni](Menni-the-Salamence), [Razor](Razor-the-Gible), and [Ishy](Ishy-the-Fuecoco).
+Mount Maw was the first place we met [Menni](Menni%20the%20Salamence), [Razor](Razor%20the%20Gible), and [Ishy](Ishy%20the%20Fuecoco).
 
 ## Pokémon in this Dungeon
 
@@ -26,8 +26,8 @@ Mount Maw was the first place we met [Menni](Menni-the-Salamence), [Razor](Razor
 | Druddigon             | 13-15 |
 
 ## Mission Reports
-- [Stamp Squad Mission #002](Report.Stamp-Squad-Mission-2)
-- [Orchard Mission #003](Report.Orchard-Mission-3)
+- [Stamp Squad Mission #002](Report.Stamp%20Squad%20Mission%202)
+- [Orchard Mission #003](Report.Orchard%20Mission%203)
 
 #### Tags:
  #mysterydungeon #satojiri #mountmaw

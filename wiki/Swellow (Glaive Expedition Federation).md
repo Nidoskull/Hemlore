@@ -1,7 +1,7 @@
 # Swellow
 `Paste icon here`
 ## Description
-**[Swellow](Swellow-(Species))**  is a lookout for the [Glaive Expedition Federation](Glaive-Federation-Expedition), alongside an explorer for the same guild. He is around thirty years old. They have also been known as Taillow, back before he evolved.
+**[Swellow](Swellow%20(Species))**  is a lookout for the [Glaive Expedition Federation], alongside an explorer for the same guild. He is around thirty years old. They have also been known as Taillow, back before he evolved.
 
 Swellow is incredibly far-sighted, which is a boon when playing lookout, and a curse when trying to do literally anything else. Glasses fuck up their balance, meaning he can't fly with them on.
 
