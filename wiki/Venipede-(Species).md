@@ -1,7 +1,7 @@
 # Venipede (Species)
 Venipede are insectoid, centipede-like Pokémon. They have two large quills attached to their head which double as antennae. Though their carapace is tough, they are generally quite weak nonetheless.
 
-It normally [evolves](Evolution) into Whirlipede at 22, which then evolves into [Scolipede](Scolipede_(Species)) at level 30.
+It normally [evolves](Evolution) into Whirlipede at 22, which then evolves into [Scolipede](Scolipede-(Species)) at level 30.
 
 ## Moves learned
 ### Level-Up moves
@@ -32,8 +32,8 @@ Bite, Bug Bite, Endeavor, Fury Cutter, Gyro Ball, Infestation, Pin Missile, Pois
 
 ## Notable mons
 
-- [Hemlock_the_Venipede](Hemlock_the_Venipede)
-- [Foxglove the Venipede](Foxglove_the_Venipede)
+- [Hemlock-the-Venipede](Hemlock-the-Venipede)
+- [Foxglove the Venipede](Foxglove-the-Venipede)
 
 #### Tags:
 #template #adminpage #landing #species #speciesnamehere

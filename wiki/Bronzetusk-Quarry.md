@@ -1,5 +1,5 @@
 # Bronzetusk Quarry (Dungeon)
-Bronzetusk Quarry is a [Mystery Dungeon](Mystery_Dungeon) in Satojiri, consisting of at least 9 floors underground.
+Bronzetusk Quarry is a [Mystery Dungeon](Mystery-Dungeon) in Satojiri, consisting of at least 9 floors underground.
 As no team has visited this quarry yet, no physical description has been given.
 ## Pokémon in this Dungeon
 This dungeon has yet to be visited.

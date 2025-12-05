@@ -1,5 +1,5 @@
 # !TEMPLATE! Dungeon
-DUNGEON is a [Mystery Dungeon](Mystery%20Dungeon) near LOCATION in REGION, consisting of AMOUNT floors above/underground.
+DUNGEON is a [Mystery Dungeon](Mystery-Dungeon) near LOCATION in REGION, consisting of AMOUNT floors above/underground.
 Physical description here.
 
 Notable features, such as level, usual weather/terrain, go here.
