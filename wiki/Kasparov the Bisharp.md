@@ -1,9 +1,9 @@
 # Kasparov the Bisharp
 `Paste icon here`
 ## Description
-**Kasparov** the **Bisharp** is [Gambit](Gambit%20the%20Pawniard)'s father, living somewhere in [Isshu](Isshu).
+**Kasparov** the **[Bisharp](Pawniard%20(Species))** is [Gambit](Gambit%20the%20Pawniard)'s father, living somewhere in [Isshu](Isshu).
 
-We have not properly met him; but Gambit assures us that he is quite kind. He has one Leader's Crest, attached at his wrist. and wears a tattered brown cape.
+We have not properly met him, but Gambit notes he can be rather self-absorbed at times. He has one Leader's Crest, attached at his wrist, and wears a tattered brown cape.
 
 He speaks, at minimum, [Isshun](Isshu).
 
