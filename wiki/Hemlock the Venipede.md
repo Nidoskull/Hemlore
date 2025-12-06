@@ -13,7 +13,7 @@ It speaks [Satojiran](Satojiri), alongside comprehending [Alo'lolan](Alo'lola). 
 Known relatives are:
 - [Volcarona](Volcarona%20(Hemlock%27s%20Grandfather)) (Grandfather)
 - [Belladonna the Scolipede](Belladonna%20the%20Scolipede) (Mother)
-- [Foxglove the Venipede](Foxglove%20the%20Venipede) (Sibling)
+- [Foxglove the Venipede](Foxglove%20the%20Venipede) (Brother)
 - [Nightshade the Venonat](Nightshade%20the%20Venonat) (Sibling)
 - [Hemlock's Father](Hemlock's%20Father) (Father)
 
