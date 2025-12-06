@@ -34,6 +34,7 @@ Nlipede eggs are small and partially translucent. The majority of eggs laid by n
 | Toxic         | 44    |
 | Skitter Smack | 49    |
 | Double-Edge   | 53    |
+
 - Whirlipede:
 
 | Move          | Level |
@@ -55,6 +56,7 @@ Nlipede eggs are small and partially translucent. The majority of eggs laid by n
 | Toxic         | 44    |
 | Skitter Smack | 49    |
 | Double-Edge   | 53    |
+
 - Scolipede:
 
 | Move          | Level |
