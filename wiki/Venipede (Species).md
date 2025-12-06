@@ -11,7 +11,7 @@ Mega Scolipede has channeled its fervent wishes into more potent poisons. Alongs
 
 The toxins of the nlipede family act as a paralyzing agent, causing damage by stopping vital functions in high doses. These toxins  have been used in medical contexts for ages, as part of anaesthetic procedures and to control out-of-control muscles. Caution must still be used, however, as administering these poisons may paralyse the breathing muscles, requiring additional aid.
 
-Nlipede eggs are small and partially translucent. The majority of eggs laid by nlipedes are not fertilized, instead functioning as a food source for the one or two fertilized eggs in the clutch, alongside protection against dehydration and (a remnant of) predation. Nlipedes are notably very protective of their egg clutches; if one invites you to come look, it means they trust you very much.
+Nlipede eggs are small, yellow-orange-ish and partially translucent. The majority of eggs laid by nlipedes are not fertilized, instead functioning as a food source for the one or two fertilized eggs in the clutch, alongside protection against dehydration and (a remnant of) predation. Nlipedes are notably very protective of their egg clutches; if one invites you to come look, it means they trust you very much. Freshly hatched nlipedes have soft, off-white, slightly translucent shells. The coloration comes in as they grow, settling at around four months old.
 ## Moves learned
 ### Level-Up moves
 - Venipede:
