@@ -5,6 +5,8 @@
 
 Belladonna notably has horns curved downwards, similar to a Houndoom's, and has a black mark on her face's exoskeleton that resembles eyeliner. Her carapace has a fiery tint to it, appearing nearly orange in direct sunlight, yet a deep pink in the shade. She has a purple stripe running down her back. Her eyespots are shaped like Vs, styled like an ordinary Scolipede's horns. Her tail-horns are speckled with dark markings, similar to a Volcarona's wings. She has long legs for a Scolipede, but a fairly short neck; resulting in average height across the board.
 
+She is quite [Adamant](Nature) and is highly persistent, which is typical of Scolipede.
+
 Belladonna speaks [Satojiran](Satojiri) and [Hisinohan](Hisinoh), and can understand [Alo'lolan](Alo%27lola), even if she can't fluently communicate in it.
 
 ## Relationships
