@@ -1,5 +1,5 @@
 # Sheo the Gastly
-![A Gastly, brighter than most, looks to the side of the camera.](IconAllySheo.png)
+![A Gastly, brighter than most, looks to the side of the camera.](assets/image/IconAllySheo.png)
 ## Description
 **Sheo** the **[Gastly](Gastly)** is a ally explorer as part of [Team Nova](Team%20Nova). She came to the guild after [Nova mission #4] , She is 12 years old and hails from an unknown place. 
 
