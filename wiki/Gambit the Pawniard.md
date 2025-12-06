@@ -11,7 +11,8 @@ Gambit speaks [Satojiran](Satojiri), though with an [Isshun](Isshu) accent, and 
 ## Relationships
 Known relatives are:
 - [Kasparov the Bisharp](Kasparov%20the%20Bisharp) (Father)
-- [Kingambit](Kingambit%20(Gambit%27s%20Mother)) (Mother)
+- [Judit](Judit%20the%20Kingambit) (Mother)
+- [Hikaru](Hikaru%20the%20Pawniard) (Sister)
 
 As founding member of Team Nova, Gambit is of course close with [Hemlock the Venipede](Hemlock%20the%20Venipede), [Neon the Tynamo](Neon%20the%20Tynamo), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly). Additionally, Gambit has been named as [Legate Honorus](Honorum) by [Zygarde](Zygarde%20(Myth)). 
 
