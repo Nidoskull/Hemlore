@@ -24,4 +24,4 @@ Shortly after Hikaru hatched, Kasparov and Judit got into a fight, causing the t
 Kasparov got *so* mad about seeing his ex become the new leader, he refused to take her orders, broke rank, and left the army with his children and those in his brigade who would follow him. He joined a much smaller army, but remains disconnected from them as they don't trust him due to him breaking rank before.
 
 #### Tags:
-#character #npc #bisharp 
+#character #npc #bisharp #isshu
