@@ -7,41 +7,52 @@ The **Glaive Expedition Federation** is a [Guild](Guild) based in [Dura Town](Du
 The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 
 ## Members
-### Current Members
-_This list is incomplete. You can help by expanding it._
-- [Guildmaster Baxcalibur](Guildmaster%20Baxcalibur) ([Team Roppyaku](Team%20Roppyaku))
-- [Deputy Guildmaster Darmanitan](Darmanitan%20(Glaive%20Expedition%20Federation))
-- [Treasurer Dusknoir](Dusknoir%20(Glaive%20Expedition%20Federation))
-- [Lookout Swellow](Swellow%20(Glaive%20Expedition%20Federation))
-- [Librarian Relicanth](Relicanth%20(Glaive%20Expedition%20Federation))
-- [Machoke](Machoke%20(Glaive%20Expedition%20Federation))
-- [Ursaring](Ursaring%20(Glaive%20Expedition%20Federation))
-- [Litleo](Litleo%20(Glaive%20Expedition%20Federation)) ([Litleo's Team](Litleo%27s%20Team))
-- [Steenee](Steenee%20(Glaive%20Expedition%20Federation)) ([Farigiraf's Team](Farigiraf%27s%20Team))
-- [Drizzile](Drizzile%20(Glaive%20Expedition%20Federation)) ([Drizzile's Team](Drizzile%27s%20Team))
-- [Hemlock the Venipede](Hemlock%20the%20Venipede) ([Team Nova](Team%20Nova))
-- [Gambit the Pawniard](Gambit%20the%20Pawniard) (Team Nova)
-- [Neon the Tynamo](Neon%20the%20Tynamo) (Team Nova)
-- [Pom the Honedge](Pom%20the%20Honedge) ([Team Orchard](Team%20Orchard))
-- [Amby the Mudkip](Amby%20the%20Mudkip) (Team Orchard)
-- [Mint the Chespin](Mint%20the%20Chespin) (Team Orchard)
-- [Titania the Tinkatink](Titania%20the%20Tinkatink) ([Team Stamp Squad](Team%20Stamp%20Squad))
-- [Kasi the Ralts](Kasi%20the%20Ralts) (Team Stamp Squad)
-- [Ralmin the Bergmite](Ralmin%20the%20Bergmite) (Team Stamp Squad)
-- [Volt the Shinx](Volt%20the%20Shinx) ([Team Gummy](Team%20Gummy))
-- [Jelly the Marill](Jelly%20Bean) (Team Gummy)
-- [Mars the Larvitar](Mars%20the%20Larvitar) (Team Gummy)
-- [Gala the Morelull](Gala%20the%20Morelull) (Team Orchard)
-- [Elma the Poltchageist](Elma%20the%20Poltchageist) (Team Orchard)
-- [Razor the Gible](Razor%20the%20Gible) (Team Stamp Squad)
-- [Georio the Geodude](Georio%20the%20Geodude) (Team Orchard)
-- [Geogi the Geodude](Geogi%20the%20Geodude) (Team Orchard)
-- [Arthur the Riolu](Arthur%20the%20Riolu) (Team Gummy)
-- [Aemilia the Rookidee](Aemilia%20the%20Rookidee) (Team Nova)
-- [Ishy the Fuecoco](Ishy%20the%20Fuecoco.md) (Team Orchard)
-- [Sheo the Gastly](Sheo%20the%20Gastly) (Team Nova)
-- [Bronze the Beldum](Bronze%20the%20Beldum) (Team Gummy)
-- [Djefatgoobti Meritxernen Akekhselkis](Djefatgoobti%20Meritxernen%20Akekhselkis) (Team Gummy)
+### Guildmates
+
+[Guildmaster Baxcalibur](Guildmaster%20Baxcalibur) ([Team Roppyaku](Team%20Roppyaku)), 
+[Deputy Guildmaster Darmanitan](Darmanitan%20(Glaive%20Expedition%20Federation)), 
+[Treasurer Dusknoir](Dusknoir%20(Glaive%20Expedition%20Federation)), 
+[Lookout Swellow](Swellow%20(Glaive%20Expedition%20Federation)), 
+[Librarian Relicanth](Relicanth%20(Glaive%20Expedition%20Federation)), 
+[Machoke](Machoke%20(Glaive%20Expedition%20Federation)), 
+[Ursaring](Ursaring%20(Glaive%20Expedition%20Federation)), 
+[Litleo](Litleo%20(Glaive%20Expedition%20Federation)) ([Litleo's Team](Litleo%27s%20Team)), 
+[Steenee](Steenee%20(Glaive%20Expedition%20Federation)) ([Farigiraf's Team](Farigiraf%27s%20Team)), 
+[Drizzile](Drizzile%20(Glaive%20Expedition%20Federation)) ([Drizzile's Team](Drizzile%27s%20Team)), 
+
+### Player Members
+- [Team Nova](Team%20Nova): 
+[Hemlock the Venipede](Hemlock%20the%20Venipede), 
+[Gambit the Pawniard](Gambit%20the%20Pawniard), 
+[Neon the Tynamo](Neon%20the%20Tynamo), 
+- [Team Orchard](Team%20Orchard):
+[Pom the Honedge](Pom%20the%20Honedge), 
+[Amby the Mudkip](Amby%20the%20Mudkip), 
+[Mint the Chespin](Mint%20the%20Chespin), 
+- [Team Stamp](Team%20Stamp):
+[Titania the Tinkatink](Titania%20the%20Tinkatink), 
+[Kasi the Ralts](Kasi%20the%20Ralts), 
+[Ralmin the Bergmite](Ralmin%20the%20Bergmite), 
+- [Team Gummy](Team%20Gummy):
+[Volt the Shinx](Volt%20the%20Shinx), 
+[Jelly the Marill](Jelly%20Bean), 
+[Mars the Larvitar](Mars%20the%20Larvitar)
+
+### Allies
+_This list is incomplete, you can help by expanding it_
+
+[Gala the Morelull](Gala%20the%20Morelull), 
+[Elma the Poltchageist](Elma%20the%20Poltchageist), 
+[Razor the Gible](Razor%20the%20Gible), 
+[Georio the Geodude](Georio%20the%20Geodude), 
+[Geogi the Geodude](Geogi%20the%20Geodude), 
+[Arthur the Riolu](Arthur%20the%20Riolu), 
+[Aemilia the Rookidee](Aemilia%20the%20Rookidee), 
+[Ishy the Fuecoco](Ishy%20the%20Fuecoco.md), 
+[Sheo the Gastly](Sheo%20the%20Gastly), 
+[Bronze the Beldum](Bronze%20the%20Beldum), 
+[Djefatgoobti Meritxernen Akekhselkis](Djefatgoobti%20Meritxernen%20Akekhselkis)
+
 
 ### Former Members
 - [Tepig](Tepig%20(Glaive%20Expedition%20Federation)) (Drizzile's Team)
