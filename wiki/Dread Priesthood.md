@@ -10,6 +10,8 @@ No current members are known.
 
 ... _Maybe Jelly, though. Who knows._
 
+It's possible that the Thieves' Guild Sableye who attacked the Guild may know more about the Dread Priesthood.
+
 ## Major actions
 An unknown amount of time ago, members of the Dread Priesthood constructed Dread Sanctums for an unknown purpose. Some of these Dread Sanctums had living Pokémon sealed inside, left for dead.
 
