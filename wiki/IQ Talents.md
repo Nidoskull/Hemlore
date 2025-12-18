@@ -1,6 +1,5 @@
 # IQ Talents
-IQ stands for literally anything that isn't Intelligence Quotient by the way
-(i'll write this later)
+IQ stands for Illumina Quality.
 
 ## List of IQ Talents
 - Bodyguard - If an ally is at 25% or less HP, you can choose to jump in front of an attack meant for them.
