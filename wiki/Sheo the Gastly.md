@@ -1,7 +1,7 @@
 # Sheo the Gastly
 ![A Gastly, brighter than most, looks to the side of the camera.](assets/image/IconAllySheo.png)
 ## Description
-**Sheo** the **[Gastly](Gastly)** is a ally explorer as part of [Team Nova](Team%20Nova). She came to the guild after [Nova mission #4] , She is 12 years old and hails from an unknown place. 
+**Sheo** the **[Gastly](Gastly)** is an allied explorer as part of [Team Nova](Team%20Nova). She came to the guild after [Nova mission #4](Report.Nova%20Mission%204). She is 12 years old and hails from an unknown place. 
 
 They are a slightly lighter colour than other Gastly, and are non-verbal, instead communicating through body language and non-language sounds. She often possesses items, such as Team Nova's bag.
 
@@ -12,7 +12,7 @@ Sheo has no known relatives, but may be related to the [Team Meanie's Gengar](ht
 
 
 
-As a member of Team Nova, Sheo is friends with [Hemlock the Venipede](Hemlock%20the%20Venipede), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Neon the Tynamo](Neon%20the%20Tynamo), and [Aemilia the Rookiedee](Aemilia%20the%20Rookidee).
+As a member of Team Nova, Sheo is friends with [Hemlock of Belladonna](Hemlock%20of%20Belladonna), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Neon the Tynamo](Neon%20the%20Tynamo), and [Aemilia the Rookiedee](Aemilia%20the%20Rookidee).
 
 Additionally, she knows [Vulcan the Charizard](Vulcan%20the%20Charizard), and an unknown Pokemon is after her
 

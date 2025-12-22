@@ -1,7 +1,7 @@
-# Neon the Tynamo
+# Neon, Victini-Blessed
 ![A Shiny Tynamo looks at you smugly. It wears a blue ribbon just behind their face.](assets/image/IconNeon.png)
 ## Description
-**Neon** the [Shiny](Shiny) **[Tynamo](Tynamo%20(Species))** is a rookie adventurer that's part of [Team Nova](Team%20Nova). Washed ashore near [Dura Town](Dura%20Town), it is 16 years old and was born in the oceans near [Sofbivia](Sofbivia). They have also been known as Ty and Tynamite before he chose its name.
+**Neon** the [Shiny](Shiny) **[Tynamo](Tynamo%20(Species))** is a rookie adventurer that's part of [Team Nova](Team%20Nova). Washed ashore near [Dura Town](Dura%20Town), it is 16 years old and was born in the oceans near [Sofbivia](Sofbivia). They have also been known as Ty and Tynamite before he chose its name. It uses they/it/he/she pronouns.
 
 Neon is *incredibly* [Hasty](Nature) and as lucky as being a shiny would be.
 
@@ -10,7 +10,7 @@ Neon speaks [Satojiran](Satojiri) and at least one Water-type language that does
 ## Relationships
 Neon has no known relatives due to the whole The Ocean and The Currents thing. 
 
-As founding member of Team Nova, Neon is close to [Hemlock the Venipede](Hemlock%20the%20Venipede), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
+As founding member of Team Nova, Neon is close to [Hemlock of Belladonna](Hemlock%20of%20Belladonna), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
 
 It used to know a pair of misfits back in the day, [Blink the Inkay] and [Blaster the Octillery], as well as a [Magnemite](Magnemite%20(Treasure%20City)) over in [Treasure City](Treasure%20City)
 

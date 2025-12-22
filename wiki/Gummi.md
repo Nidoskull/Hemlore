@@ -1,5 +1,5 @@
 # Gummis
-**Gummi**s are a category of item. When eaten, besides tasting really, really good, your IQ increases, which let you use [IQ Talents](IQ%20Talents.md) in dungeons!
+**Gummi**s are a category of item. When eaten, besides tasting really, really good, your IQ increases, which let you use [IQ](IQ.md) in dungeons!
 
 Each variety of gummi is linked to a specific [Type](Type). For example, the Yellow Gummi is favored by Electric Pokémon, whereas the Orange Gummi is enjoyed most by Fighting Pokémon.
 

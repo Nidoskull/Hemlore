@@ -1,9 +1,9 @@
 # Team Nova 🌠
-Team Nova was founded by [Hemlock the Venipede](Hemlock%20the%20Venipede), [Neon the Tynamo](Neon%20the%20Tynamo) and [Gambit the Pawniard](Gambit%20the%20Pawniard) in 6775 ISC under the [Glaive Expedition Federation](Glaive%20Expedition%20Federation).
+Team Nova was founded by [Hemlock of Belladonna](Hemlock%20of%20Belladonna.md), [Neon the Tynamo](Neon%20the%20Tynamo) and [Gambit the Pawniard](Gambit%20the%20Pawniard) in 6775 ISC under the [Glaive Expedition Federation](Glaive%20Expedition%20Federation).
 
 ## Members
 ### Current Members
-- [Hemlock the Venipede](Hemlock%20the%20Venipede)
+- [Hemlock of Belladonna](Hemlock%20of%20Belladonna.md)
 - [Neon the Tynamo](Neon%20the%20Tynamo)
 - [Gambit the Pawniard](Gambit%20the%20Pawniard)
 - [Aemilia the Rookidee](Aemilia%20the%20Rookidee)

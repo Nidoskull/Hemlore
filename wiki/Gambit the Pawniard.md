@@ -1,4 +1,4 @@
-# Gambit the Pawniard
+# Gambit, Son of Judit, Son of Kasparov
 ![A Pawniard glares at the camera, looking cool. He wears a blue bandana like a cape.](assets/image/IconGambit.png)
 
 ## Description
@@ -14,10 +14,10 @@ Known relatives are:
 - [Judit](Judit%20the%20Kingambit) (Mother)
 - [Hikaru](Hikaru%20the%20Pawniard) (Sister)
 
-As founding member of Team Nova, Gambit is of course close with [Hemlock the Venipede](Hemlock%20the%20Venipede), [Neon the Tynamo](Neon%20the%20Tynamo), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly). Additionally, Gambit has been named as [Legate Honorus](Honorum) by [Zygarde](Zygarde%20(Myth)). 
+As founding member of Team Nova, Gambit is of course close with [Hemlock of Belladonna](Hemlock%20of%20Belladonna), [Neon the Tynamo](Neon%20the%20Tynamo), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly). Additionally, Gambit has been named as [Legate Honorus](Honorum) by [Zygarde](Zygarde%20(Myth)). 
 
 ## History
-Gambit was born to a squadron, laid by [Kingambit](Kingambit%20(Gambit%27s%20Mother)) and sired by [Kasparov](Kasparov%20the%20Bisharp). The squadron he belonged to did not usually remain in one place for long, preferring to remain mobile and mobilized. 
+Gambit was born to a squadron, laid by [Judit](Judit%20the%20Kingambit) and sired by [Kasparov](Kasparov%20the%20Bisharp). The squadron he belonged to did not usually remain in one place for long, preferring to remain mobile and mobilized. 
 
 #### Tags:
 #character #pc #glaiveexpeditionfederation #explorer #teamnova

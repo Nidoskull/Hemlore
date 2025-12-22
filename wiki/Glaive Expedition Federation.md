@@ -22,7 +22,7 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 
 ### Player Members
 - [Team Nova](Team%20Nova): 
-[Hemlock the Venipede](Hemlock%20the%20Venipede), 
+[Hemlock of Belladonna](Hemlock%20of%20Belladonna), 
 [Gambit the Pawniard](Gambit%20the%20Pawniard), 
 [Neon the Tynamo](Neon%20the%20Tynamo), 
 - [Team Orchard](Team%20Orchard):
@@ -48,7 +48,7 @@ _This list is incomplete, you can help by expanding it_
 [Geogi the Geodude](Geogi%20the%20Geodude), 
 [Arthur the Riolu](Arthur%20the%20Riolu), 
 [Aemilia the Rookidee](Aemilia%20the%20Rookidee), 
-[Ishy the Fuecoco](Ishy%20the%20Fuecoco.md), 
+[Ishy the Fuecoco](Ishy%20the%20Fuecoco), 
 [Sheo the Gastly](Sheo%20the%20Gastly), 
 [Bronze the Beldum](Bronze%20the%20Beldum), 
 [Djefatgoobti Meritxernen Akekhselkis](Djefatgoobti%20Meritxernen%20Akekhselkis)
@@ -66,7 +66,7 @@ Originally based on [Guranbar Island](Guranbar%20Island), the Guild encountered 
 
 In 6758 ISC (17 years ago), the Guild relocated to [Dura Town](Dura%20Town) and heavily invested in the infrastructure of the town. It remains in this location since.
 
-[Team Roppyaku](Team%20Roppyaku) of the Guild met with [Team Profundo](Team%20Profundo) to stop [Zoroark the Unkillable](Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Infernal%20Machine%20(Tale).md). This event causes [Larvesta](Volcarona%20(Team%20Roppyaku)), [Arctibax](Guildmaster%20Baxcalibur), [Zweilous](Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Hydreigon%20(Team%20Profundo)) to evolve.
+[Team Roppyaku](Team%20Roppyaku) of the Guild met with [Team Profundo](Team%20Profundo) to stop [Zoroark the Unkillable](Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Infernal%20Machine%20(Tale)). This event causes [Larvesta](Volcarona%20(Team%20Roppyaku)), [Arctibax](Guildmaster%20Baxcalibur), [Zweilous](Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Hydreigon%20(Team%20Profundo)) to evolve.
 
 It is unknown what exactly happened, but the team formed by [Drizzile](Drizzile%20(Glaive%20Expedition%20Federation)) loses two of its members in 6768 ISC (7 years ago).
 

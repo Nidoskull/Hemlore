@@ -101,7 +101,7 @@ Bite, Bug Bite, Endeavor, Fury Cutter, Gyro Ball, Infestation, Pin Missile, Pois
 
 ## Notable mons
 
-- [Hemlock the Venipede](Hemlock%20the%20Venipede)
+- [Hemlock of Belladonna](Hemlock%20of%20Belladonna.md)
 - [Foxglove the Venipede](Foxglove%20the%20Venipede)
 - [Belladonna the Scolipede](Belladonna%20the%20Scolipede)
 

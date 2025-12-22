@@ -1,7 +1,7 @@
 # Mission Report: Team Nova #002
 **Dungeon:** [Sunlit Meadows](Sunlit%20Meadows) (again)
 
-**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 7), [Neon](Neon%20the%20Tynamo) (level 8), [Gambit](Gambit%20the%20Pawniard) (level 7)
+**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20of%20Belladonna.md) (level 7), [Neon](Neon%20the%20Tynamo) (level 8), [Gambit](Gambit%20the%20Pawniard) (level 7)
 
 **Mission:** Rescue: Kricketot
 

@@ -15,7 +15,7 @@ Known relatives are:
 
 As member of Team Orchard, Ishy is of course friends with [Mint](Mint%20the%20Chespin), [Amby](Amby%20the%20Mudkip), [Pom](Pom%20the%20Honedge), [Gala](Gala%20the%20Morelull), [Elma](Elma%20the%20Poltchageist), [Georio](Georio%20the%20Geodude), and [Geogi](Geogi%20the%20Geodude).
 
-[Hemlock](Hemlock%20the%20Venipede) and Ishy have bonded over being nerds.
+[Hemlock](Hemlock%20of%20Belladonna) and Ishy have bonded over being nerds.
 
 ## History
 If I knew anything about Ishy's past, this is where I'd put it.

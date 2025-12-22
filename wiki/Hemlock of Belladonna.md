@@ -1,4 +1,4 @@
-# Hemlock, child of Belladonna
+# Hemlock, Child of Belladonna
 ![A polite Venipede. It has a blue Team Ribbon tied around its left antenna, and its shoulder markings are similar to parentheses. It is looking at you with wide-open eyes.](assets/image/IconHemlock.png)
 ## General biography
 **Hemlock** the **[Venipede](Venipede%20(Species))** is Assistant [Librarian](Librarian) to [Relicanth](Relicanth%20(Glaive%20Expedition%20Federation)) in the [Glaive Expedition Federation](Glaive%20Expedition%20Federation), alongside a [Rookie](Rookie) [Explorer](Explorer) as part of [Team Nova](Team%20Nova). It is 14 years old and hails from [Paleo City](Paleo%20City). 
@@ -15,7 +15,8 @@ Known relatives are:
 - [Belladonna the Scolipede](Belladonna%20the%20Scolipede) (Mother)
 - [Foxglove the Venipede](Foxglove%20the%20Venipede) (Brother)
 - [Nightshade the Venonat](Nightshade%20the%20Venonat) (Sibling)
-- [Hemlock's Father](Hemlock's%20Father) (Father)
+- Unknown father
+- [Sheo the Gastly](Sheo%20the%20Gastly) (adopted sister)
 
 As one of Team Nova's founding members, it is good friends with [Neon the Tynamo](Neon%20the%20Tynamo), [Gambit the Pawniard](Gambit%20the%20Pawniard), [Aemilia the Rookidee](Aemilia%20the%20Rookidee) and [Sheo the Gastly](Sheo%20the%20Gastly).
 

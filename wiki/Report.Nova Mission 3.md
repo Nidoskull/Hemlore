@@ -1,7 +1,7 @@
 # Mission Report: Team Nova #003
 **Dungeon:** [Tanglegrove Ruins](Tanglegrove%20Ruins)
 
-**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20the%20Venipede) (level 11), [Ty*](Neon%20the%20Tynamo) (level 11), [Gambit](Gambit%20the%20Pawniard) (level 10). [Team Stamp Squad](Team%20Stamp%20Squad): [Razor](Razor%20the%20Gible) (level 10).
+**Members:** [Team Nova](Team%20Nova): [Hemlock](Hemlock%20of%20Belladonna.md) (level 11), [Ty*](Neon%20the%20Tynamo) (level 11), [Gambit](Gambit%20the%20Pawniard) (level 10). [Team Stamp Squad](Team%20Stamp%20Squad): [Razor](Razor%20the%20Gible) (level 10).
 
 **Missions:** Bounty: Beedrill & Dottler muggers
 

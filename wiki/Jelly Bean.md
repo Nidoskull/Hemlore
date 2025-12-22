@@ -1,4 +1,4 @@
-# Jelly Bean
+# Jelly Bean, Son of Evangeline and her Hope
 ![A jolly Marill with a pink bandana on his ear.](assets/image/IconJellyMarillDecima.png)
 ## Description
 **Jelly** the **[Marill](Marill%20(Species))** is a rookie explorer in the [Glaive Exploration Federation](Glaive%20Exploration%20Federation). He is 10 years old, and was born on the banks of [Arcto River](Arcto%20River). He has [evolved](Evolution) from [Azurill](Azurill%20(Species)).
