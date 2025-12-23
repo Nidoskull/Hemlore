@@ -1,7 +1,7 @@
 # Ralmin, Convert of Kyurem and Son of Lost Ones
 `Paste icon here`
 ## Description
-**Ralmin** the **[Bergmite](Bergmite%20(Species))** is a rookie explorer that founded [Team Stamp Squad](Team%20Stamp%20Squad). He is 15 years old and from an unknown [Flow](Avalugg%20(Species)), likely from the [Polar Sea](Polar%20Sea). They use he/they pronouns.
+**Ralmin** the **[Bergmite](Bergmite%20(Species))** is a rookie explorer that founded [Team Stamp Squad](Team%20Stamp%20Squad). He is 15 years old and from an unknown [Flow](Bergmite%20(Species)), likely from the [Polar Sea](Polar%20Sea). They use he/they pronouns.
 
 Ralmin wears their team bandana around his waist, making him look a little like sushi. They have white stripes in their ice, and his iceberg is shaped almost like a Basculegion's jaw. He often seems nervous. Ralmin has notably terrible charisma.
 
@@ -20,4 +20,4 @@ Ralmin remembers very, *very* little about his life before waking up near a big 
 Shortly after waking up, he encountered Epinephrine who snuck them into their school as a roommate. The two grew close, but Eppie eventually had to leave Satojiri for higher education. Ralmin learned of the Glaive Expedition Federation through Epinephrine, and decided to apply to obtain a goal in life beyond simply drifting as icebergs tend to do.
 
 #### Tags:
-#template #adminpage #character #npc
+#character #pc #teamstampsquad 
