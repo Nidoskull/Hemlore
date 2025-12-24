@@ -11,7 +11,7 @@ As originally told by [Kricketune, Minstrel of the Dawn](Kricketune%20(Minstrel)
 > 
 > With the Infernal Machine, Volcanion is said to have shaped the base elements of the One Above All's creation and Types into the [Looplets](Looplet) and [Pendants](Pendant) we now give to our explorers as they journey into the [Mystery Dungeons](Mystery%20Dungeon).
 > 
-> But then came the [Great Devouring](Eternatus%20(Myth)), spurred on by darkness and distortion and death. Volcanion, ever the engineer, created weapons for the heroic warriors who fought the Great Devouring. She forged [sword](Zacian%20(Myth)) and [shield](Zamazenta%20(Myth)) and [scroll](Urshifu%20(Myth)) and [crown](Calyrex%20(Myth)) and orb and [be](Ho-Oh%20(Myth))[ll](Lugia%20(Myth)) and every Looplet she could.
+> But then came the [Great Devouring](Eternatus%20(Myth)), spurred on by darkness and distortion and death. Volcanion, ever the engineer, created weapons for the heroic warriors who fought the Great Devouring. She forged [sword](Zacian%20(Myth)) and [shield](Zamazenta%20(Myth).md) and [scroll](Urshifu%20(Myth)) and [crown](Calyrex%20(Myth)) and orb and [be](Ho-Oh%20(Myth))[ll](Lugia%20(Myth)) and every Looplet she could.
 > 
 > She worked and worked and worked herself until she could not work any longer and then she worked some more. When the dust settles and the Great Devouring was defeated, the legendary engineer was found in her workshop, the steam in her veins having gone cold.
 > 
