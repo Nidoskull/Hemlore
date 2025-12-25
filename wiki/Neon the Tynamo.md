@@ -19,7 +19,7 @@ Additionally, as a shiny she has a psychic link with [Victini](Victini), who is 
 ## History
 Not much is know of her past. On of his earliest memory is swimming near Sofblivia, where they met a duo, [Blink](Blink%20the%20Inkay) and [Blaster](Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace. Some months of this later, the now-trio was causing problems for the local Wingull population when a storm broke out. The waves dragged Neon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Latias) found it, telling it of the [Glaive Exploration Federation](Glaive%20Exploration%20Federation) as they flew to safety.
 
-During it's travel, they encountered [Zygarde](Zygarde%20(Myth))'s flames during a time of need, when some form of icky film threatened to drown him. Zygarde burnt away the sludge, saving Neon in the process.
+During its travel, they encountered [Zygarde](Zygarde%20(Myth))'s flames during a time of need, when some form of icky film threatened to drown him. Zygarde burnt away the sludge, saving Neon in the process.
 
 Finding its way to Dura Town, Neon manages to join the guild.
 
