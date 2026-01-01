@@ -1,0 +1,24 @@
+# Sheo the Gastly
+![A Gastly, brighter than most, looks to the side of the camera.](assets/image/IconAllySheo.png)
+## Description
+**Sheo** the **[Gastly](Species.Gastly)** is an allied explorer as part of [Team Nova](Team.Nova). She came to the guild after [Nova mission #4](Report.Nova4). She is 12 years old and hails from an unknown place. 
+
+They are a slightly lighter colour than other Gastly, and are non-verbal, instead communicating through body language and non-language sounds. She often possesses items, such as Team Nova's bag.
+
+
+## Relationships
+
+Sheo has no known relatives, but may be related to [Team Meanie's Gengar](https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon)#In_the_spin-off_games), as [Team Meanie](https://bulbapedia.bulbagarden.net/wiki/Team_Meanies)'s Arbok is the one informing Guildmaster Baxcalibur about her. She may potentially be related to  [Jeff the Gengar](Char.Jeff%20the%20Gengar) & [Esnorb the Metagross](Char.Legate%20Esnorb).
+
+
+
+As a member of Team Nova, Sheo is friends with [Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna), [Gambit the Pawniard](Char.Gambit%20the%20Pawniard), [Néon the Tynamo](Neon%20the%20Tynamo), and [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee).
+
+Additionally, she knows [Vulcan the Charizard](Vulcan%20the%20Charizard), and an unknown Pokémon is after her.
+
+## History
+Very little is known about Sheo's past, and I'm a little hesitant to pry. [Guildmaster Baxcalibur](Char.Guildmaster%20Baxcalibur) has shared with us that she was involved in a chain breeding experiment to try and create a perfectly bred Pokémon. They have been placed at the Guild to protect them, being assigned to Team Nova as a cover story; Team Nova had just returned from a mission, and generally, their dorm is considered the calmest.
+
+
+#### Tags:
+#character #npc #glaiveexpeditionfederation #explorer #ally #teamnova #gastly

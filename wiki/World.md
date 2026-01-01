@@ -26,7 +26,7 @@ An island off the coast of [Hisinoh](Hisinoh), shaped peculiarly like [the One A
 ## Cabodea
 _Main article: [Cabodea](Cabodea)_
 
-A region that lies close to Lumalos. A large crater lies at the center, and Pokémon have mentioned seeing some strange things in there. It is rumored that the [Winged King](Koraidon%20(Myth)) and the [Iron Serpent](Miraidon%20(Myth)) may have origins from this region. 
+A region that lies remarkably close to Lumalos. A large crater lies at the center, and Pokémon have mentioned seeing some strange things in there. It is rumored that the [Winged King](Koraidon%20(Myth)) and the [Iron Serpent](Miraidon%20(Myth)) may have origins from this region. 
 
 ## Eastern Archipelago
 _Main article: [Eastern Archipelago](Eastern%20Archipelago)_
@@ -37,6 +37,7 @@ A collection of now-islands, after the Great Deluge swallowed the Eastern Contin
 _Main article: [Fioras](Fioras)_
 
 A small, mountainous region.
+
 ## Galtunar
 _Main article: [Galtunar](Galtunar)_
 
@@ -50,7 +51,7 @@ Hasorem is a semi-tropical region comprised mostly of water, with a desert near 
 ## Hisinoh
 _Main article: [Hisinoh](Hisinoh)_
 
-A northern region that's partially covered in snow at all times. It is said that [Heatran](Heatran%20(Myth))'s heart warms the region to keep it habitable. The mountain at its center was once a location of worship for the Firstborne Three ([Palkia](Palkia%20), [Dialga](Dialga%20(Myth)) and [Giratina](Giratina%20(Myth))) and the [One Above](Arceus%20(Myth)).
+A northern region that's partially covered in snow at all times. It is said that [Heatran](Heatran%20(Myth))'s heart warms the region to keep it habitable. The mountain at its center was once a location of worship for the Firstborn Three ([Palkia](Palkia%20), [Dialga](Dialga%20(Myth)) and [Giratina](Giratina%20(Myth))) and the [One Above](Arceus%20(Myth)).
 
 ## Hismiya
 _Main article: [Hismiya](Hismiya)_
@@ -98,7 +99,7 @@ _Main article: [Rymopolis](Rymopolis)_
 An incredibly small, but incredibly industrialized region consisting of one massive city. This region-city is mainly known for its annual [Pokémon Carnival](Pok%C3%A9mon%20Carnival) festival, which brings great amounts of tourists to it.
 
 ## Satojiri
-_Main article: [Satojiri](Satojiri)_
+_Main article: [Region.Satojiri](Region.Satojiri)_
 
 A large region with several large cities. Notably, [Wigglytuff's Guild](Wigglytuff%27s%20Guild) is based here.
 
