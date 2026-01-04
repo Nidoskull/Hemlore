@@ -9,7 +9,7 @@ Notably, Satojiran has remained mostly the same for the vast, vast majority of t
 ## Capital/Largest City
 *Main Article: [Treasure City](City.Treasure%20City)*
 
-Treasure City is a large city, initially known as Treasure Town. It is best known for housing [Wigglytuff's Guild](Wigglytuff%27s%20Guild), one of the most well-known Guilds there is.
+Treasure City is a large city, initially known as Treasure Town. It is best known for housing [Wigglytuff's Guild](Wigglytuff's%20Guild), one of the most well-known Guilds there is.
 
 ## History and Myths
 According to myths, Satojiri is where the [One Above](Tale.Arceus) rested after creating the world. It is where [Mew](Tale.Mew) created more mortal pokémon besides the [Twelve Originals](Tale.Original%20Twelve), with guidance from the other legendaries, after [Regigigas](Tale.Regigigas), [Groudon](Tale.Groudon) and [Heatran](Tale.Heatran) moved the continents into place following the [Primeval War](Tale.Primeval%20War).
