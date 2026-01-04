@@ -10,7 +10,7 @@ Carew City was founded in an unknown year by [Basileus Zarude](Char.Basileus%20Z
 
 Though the exact time is unknown, at most a few years before 832 ISC, [Matidia](Char.Basilinna%20Matidia)'s mother passes away, leaving her daughter alone, too young to rule. Her guardian, [Fictusilva](Char.Basileus%20Fictusilva), takes this chance to steal the crown and rule in stead; but he must get rid of this meddlesome child before she's a danger.
 
-In 832 ISC, Team Nova appears from a Time Rift and gets involved in a revolutionary plot to dethrone the false Basileus [Fictusilva](Char.Basileus%20Fictusilva). Thanks to [Néon](Char.Neon%20the%20Tynamo)'s and [Ladon](Ladon%20the%20Dipplin)'s [Shiny Surges](Mech.Shiny%20Surge), the true Basilinna is restored to life - Matidia retakes her crown. The newly-revived Basilinna sends Team Nova back home.
+In 832 ISC, Team Nova appears from a Time Rift and gets involved in a revolutionary plot to dethrone the false Basileus [Fictusilva](Char.Basileus%20Fictusilva). Thanks to [Néon](Char.Neon%20the%20Eelektrik)'s and [Ladon](Ladon%20the%20Dipplin)'s [Shiny Surges](Mech.Shiny%20Surge), the true Basilinna is restored to life - Matidia retakes her crown. The newly-revived Basilinna sends Team Nova back home.
 
 Due to this change of history, Carew City did not fall to nearly as dramatic of ruin as Fictusilva would have led it to. Over the course of the next several thousand years, Carew would remain intact, though it would of course change as the times around it changed too.
 

@@ -12,7 +12,7 @@ Known relatives are:
 - [Aemilia's Ex](Char.Aemilia%27s%20Ex) (do not ask about it)
 - [Aemilia's Great-Grandfather](Char.Aemilia%27s%20Great-Grandfather) 
 
-As a member of Team Nova, Aemilia is friends with [Hemlock](Char.Hemlock%20of%20Belladonna), [Gambit](Char.Gambit%20the%20Pawniard), [Néon](Char.Neon%20the%20Tynamo), and [Sheo](Char.Sheo%20the%20Gastly).
+As a member of Team Nova, Aemilia is friends with [Hemlock](Char.Hemlock%20of%20Belladonna), [Gambit](Char.Gambit%20the%20Pawniard), [Néon](Char.Neon%20the%20Eelektrik), and [Sheo](Char.Sheo%20the%20Gastly).
 
 Additionally, from her time in Carew City, she is associates with [Mestor Wormwood](Char.Mestor%20Wormwood) and *was* associates with his troupe of revolutionaries. None have made it to this time besides Wormwood, [Betula](Char.Betula%20the%20Trevenant), their daughter [Libanos the Phantump](Char.Libanos%20the%20Phantump), and Libanos's husband [Ladon the Dipplin](Char.Ladon%20the%20Dipplin). [Strategos Brutus](Char.Strategos%20Brutus) lives, still, too, though the last time these two saw each other was complicated.
 

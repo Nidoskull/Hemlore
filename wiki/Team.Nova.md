@@ -1,10 +1,10 @@
 # Team Nova 🌠
-Team Nova was founded by [Char.Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna), [Char.Neon the Tynamo](Char.Neon%20the%20Tynamo) and [Char.Gambit the Pawniard](Char.Gambit%20the%20Pawniard) in 6775 ISC under the [Guild.Glaive](Guild.Glaive).
+Team Nova was founded by [Char.Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna), [Char.Neon the Eelektrik](Char.Neon%20the%20Eelektrik) and [Char.Gambit the Pawniard](Char.Gambit%20the%20Pawniard) in 6775 ISC under the [Guild.Glaive](Guild.Glaive).
 
 ## Members
 ### Current Members
 - [Char.Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna)
-- [Char.Neon the Tynamo](Char.Neon%20the%20Tynamo)
+- [Char.Neon the Eelektrik](Char.Neon%20the%20Eelektrik)
 - [Char.Gambit the Pawniard](Char.Gambit%20the%20Pawniard)
 - [Char.Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee)
 - [Char.Sheo the Gastly](Char.Sheo%20the%20Gastly)

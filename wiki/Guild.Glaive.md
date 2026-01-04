@@ -25,7 +25,7 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 [Team Nova](Team.Nova): 
 - [Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna) 
 - [Gambit the Pawniard](Char.Gambit%20the%20Pawniard) 
-- [Néon the Tynamo](Char.Neon%20the%20Tynamo) 
+- [Néon the Tynamo](Char.Neon%20the%20Eelektrik) 
 [Team Orchard](Team.Orchard):
 - [Pom the Honedge](Char.Pom%20the%20Honedge) 
 - [Amby the Mudkip](Char.Amby%20the%20Mudkip) 

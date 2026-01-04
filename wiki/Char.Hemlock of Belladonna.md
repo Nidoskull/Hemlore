@@ -18,7 +18,7 @@ Known relatives are:
 - Unknown father
 - [Sheo the Gastly](Char.Sheo%20the%20Gastly) (adopted sister)
 
-As one of Team Nova's founding members, it is good friends with [Néon the Tynamo](Char.Neon%20the%20Tynamo), [Gambit the Pawniard](Char.Gambit%20the%20Pawniard), [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee) and [Sheo the Gastly](Char.Sheo%20the%20Gastly).
+As one of Team Nova's founding members, it is good friends with [Néon the Tynamo](Char.Neon%20the%20Eelektrik), [Gambit the Pawniard](Char.Gambit%20the%20Pawniard), [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee) and [Sheo the Gastly](Char.Sheo%20the%20Gastly).
 
 Back in Archa City, it was part of a book club with [Dusty the Cubone](Char.Dusty%20the%20Cubone).
 

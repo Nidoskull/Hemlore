@@ -1,7 +1,7 @@
 # Néon, Victini-Blessed
 ![A Shiny Tynamo looks at you smugly. It wears a blue ribbon just behind their face.](assets/image/IconNéon.png)
 ## Description
-**Néon** the [Shiny](Mech.Shiny) **[Tynamo](Species.Tynamo)** is a rookie adventurer that's part of [Team Nova](Team.Nova). Washed ashore near [Dura Town](Dura%20Town), it is 16 years old and was born in the oceans near [Solfbivia](Region.Solfbivia). They have also been known as Ty and Tynamite before he chose its name. It uses they/it/he/she pronouns.
+**Néon** the [Shiny](Mech.Shiny) **[Eelektrik](Species.Tynamo)** is a rookie adventurer that's part of [Team Nova](Team.Nova). Washed ashore near [Dura Town](Dura%20Town), it is 16 years old and was born in the oceans near [Solfbivia](Region.Solfbivia). They have also been known as Ty and Tynamite before he chose its name. It uses they/it/he/she pronouns.
 
 Néon is *incredibly* [Hasty](Mech.Nature) and as lucky as being a shiny would be.
 
@@ -31,4 +31,4 @@ After an attack on the guild by [Deima the Tyranitar](Char.Deima%20the%20Tyranit
 [Néon's ToyHouse page](https://toyhou.se/26725618.Néon)
 
 #### Tags:
-#character #pc #glaiveexpeditionfederation #explorer #teamnova #tynamo
+#character #pc #glaiveexpeditionfederation #explorer #teamnova #tynamo #eelektrik

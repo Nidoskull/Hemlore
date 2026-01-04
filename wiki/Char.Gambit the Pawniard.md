@@ -14,7 +14,7 @@ Known relatives are:
 - [Judit](Char.Judit%20the%20Kingambit) (Mother)
 - [Hikaru](Char.Hikaru%20the%20Pawniard) (Sister)
 
-As founding member of Team Nova, Gambit is of course close with [Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna), [Néon the Tynamo](Char.Neon%20the%20Tynamo), [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee) and [Sheo the Gastly](Char.Sheo%20the%20Gastly). Additionally, Gambit has been named as [Legate Honorus](Mech.Honorum) by [Zygarde](Tale.Zygarde). 
+As founding member of Team Nova, Gambit is of course close with [Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna), [Néon the Tynamo](Char.Neon%20the%20Eelektrik), [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee) and [Sheo the Gastly](Char.Sheo%20the%20Gastly). Additionally, Gambit has been named as [Legate Honorus](Mech.Honorum) by [Zygarde](Tale.Zygarde). 
 
 ## History
 Gambit was born to a squadron, laid by [Judit](Char.Judit%20the%20Kingambit) and sired by [Kasparov](Char.Kasparov%20the%20Bisharp). The squadron he belonged to did not usually remain in one place for long, preferring to remain mobile and mobilized. 

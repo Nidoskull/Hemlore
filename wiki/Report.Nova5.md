@@ -1,7 +1,7 @@
 # Mission Report: Team Nova #005
 **Dungeon:** [Rumbling Wastes](MD.Rumbling%20Wastes)
 
-**Members:** [Team Nova](Team.Nova): [Hemlock](Char.Hemlock%20of%20Belladonna) (level 15), [Néon](Char.Neon%20the%20Tynamo) (level 15), [Gambit](Char.Gambit%20the%20Pawniard) (level 14). [Team Orchard](Team.Orchard): [Ishy](Char.Ishy%20the%20Fuecoco) (level 13)
+**Members:** [Team Nova](Team.Nova): [Hemlock](Char.Hemlock%20of%20Belladonna) (level 15), [Néon](Char.Neon%20the%20Eelektrik) (level 15), [Gambit](Char.Gambit%20the%20Pawniard) (level 14). [Team Orchard](Team.Orchard): [Ishy](Char.Ishy%20the%20Fuecoco) (level 13)
 
 **Missions:** Explore the Rumbling Wastes
 
