@@ -1,6 +1,8 @@
 # Illumina Quality (IQ)
 Illumina Quality, usually shortened to **IQ**, is a measure of one's strengths and unique traits. The higher your IQ, the likelier it is that you're capable of some unique traits. 
 
+[Cresselia](Tale.Cresselia) is linked to Illumina Energy.
+
 [Gummis](Item.Gummi) are the easiest method to raise your IQ.
 
 ## List of IQ Talents

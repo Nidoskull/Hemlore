@@ -1,7 +1,7 @@
 # Mission Report: Joint Expedition #002
 **Dungeon**: [Rubedo Cliffs](MD.Rubedo%20Cliffs)
 
-**Members**: [Sobble](Char.Drizzile%20(Glaive)) (Level 20), [Team Nova](Team.Nova.md): [Hemlock](Char.Hemlock%20of%20Belladonna.md) (Level 14), [Néon](Char.Neon%20the%20Tynamo.md) (Level 14), [Gambit](Char.Gambit%20the%20Pawniard.md) (Level 14),  [Team Orchard](Team.Orchard.md): [Mint](Char.Mint%20the%20Chespin) (Level 19?), [Team Gummy](Team%20Gummy): [Volt](Char.Volt%20the%20Shinx) (Level 13)
+**Members**: [Sobble](Char.Drizzile%20(Glaive)) (Level 20), [Team Nova](Team.Nova): [Hemlock](Char.Hemlock%20of%20Belladonna) (Level 14), [Néon](Char.Neon%20the%20Tynamo) (Level 14), [Gambit](Char.Gambit%20the%20Pawniard) (Level 14),  [Team Orchard](Team.Orchard): [Mint](Char.Mint%20the%20Chespin) (Level 19?), [Team Gummy](Team%20Gummy): [Volt](Char.Volt%20the%20Shinx) (Level 13)
 
 **Mission**: Senior mission at Rubedo Cliffs
 

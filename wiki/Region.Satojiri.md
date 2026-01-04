@@ -16,12 +16,12 @@ According to myths, Satojiri is where the [One Above](Tale.Arceus) rested after 
 
 Over 200 years ago, the [Queen of Shattered Crystals](Char.Queen%20of%20Shattered%20Crystals) ruled over Satojiri. She ordered every [Tera Crystal](Mech.Tera%20Crystal) to be destroyed out of jealousy, leaving her the only mon around to change her Type at will due to her Ability. These orders were remarkably successful, and nowadays, few Tera Crystals remain in the region, with the locations of these Crystals remaining highly guarded.
 
-Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation) have found a [Tera Seed](Mech.Tera%20Crystal), and have planted it in [Dura Town](City.Dura%20Town).
+Very recently, [Team Stamp Squad](Team%20Stamp%20Squad) of the [Glaive Expedition Federation](Guild.Glaive) have found a [Tera Seed](Mech.Tera%20Crystal), and have planted it in [Dura Town](City.Dura%20Town).
 
 ## Locations in Satojiri
 ### List of Guilds
 - [Wigglytuff's Guild](Guild.Wigglytuff%27s%20Guild)
-- [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation)
+- [Glaive Expedition Federation](Guild.Glaive)
 
 ### List of cities
 - [Treasure City](City.Treasure%20City) (capital)

@@ -1,7 +1,7 @@
 # Isshuana Dirge III
 ![A Fuecoco greets the camera. It wears a brown fedora.](assets/image/IconAllyIshy.png)
 ## Description
-**Ishy** the **[Fuecoco](Species.Fuecoco)** is assistant assistant Librarian in the [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation), and an ally [Explorer](Explorer) as part of [Team Orchard](Team.Orchard). First encountered on Team Orchard's mission to [Mount Maw](MD.Mount%20Maw), Ishy is 14 years old.
+**Ishy** the **[Fuecoco](Species.Fuecoco)** is assistant assistant Librarian in the [Glaive Expedition Federation](Guild.Glaive), and an ally [Explorer](Explorer) as part of [Team Orchard](Team.Orchard). First encountered on Team Orchard's mission to [Mount Maw](MD.Mount%20Maw), Ishy is 14 years old.
 
 Ishy is almost always seen wearing a brown fedora, like his father and his grandfather before him.
 

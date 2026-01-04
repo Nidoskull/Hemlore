@@ -1,7 +1,7 @@
 # Titania the Tinkatink
 `Paste icon here`
 ## Description
-**Titania** the **[Tinkatink](Species.Tinkatink)** is a rookie explorer as part of the [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation). Hammer is 18 years old. Crys uses any pronouns.
+**Titania** the **[Tinkatink](Species.Tinkatink)** is a rookie explorer as part of the [Glaive Expedition Federation](Guild.Glaive). Hammer is 18 years old. Crys uses any pronouns.
 
 Inexplicably [Isshulosian](https://en.wikipedia.org/wiki/Quebec). Keir hammer-rattle contains a piece of the Titanic. Saer gem is cracked, and eir head has cracks on the back of it. Bug has a slight pattern on lis feet. Steel is rather [Lonely](Mech.Nature), and a bit of a clown.
 

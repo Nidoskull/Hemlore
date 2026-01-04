@@ -17,7 +17,7 @@ It used to know a pair of misfits back in the day, [Blink the Inkay](Char.Blink%
 Additionally, as a shiny she has a psychic link with [Victini](Tale.Victini), who is able to grant it the power of [Shiny Surge](Mech.Shiny%20Surge) in a dungeon.
 
 ## History
-Not much is know of her past. On of his earliest memory is swimming near Solfbivia, where they met a duo, [Blink](Char.Blink%20the%20Inkay) and [Blaster](Char.Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace. Some months of this later, the now-trio was causing problems for the local [Wingull](Species.Wingull) population when a storm broke out. The waves dragged Néon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Tale.Latias) found it, telling it of the [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation) as they flew to safety.
+Not much is know of her past. On of his earliest memory is swimming near Solfbivia, where they met a duo, [Blink](Char.Blink%20the%20Inkay) and [Blaster](Char.Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace. Some months of this later, the now-trio was causing problems for the local [Wingull](Species.Wingull) population when a storm broke out. The waves dragged Néon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Tale.Latias) found it, telling it of the [Glaive Expedition Federation](Guild.Glaive) as they flew to safety.
 
 During its travel, they encountered [Zygarde](Tale.Zygarde)'s flames during a time of need, when some form of icky film threatened to drown him. Zygarde burnt away the sludge, saving Néon in the process.
 

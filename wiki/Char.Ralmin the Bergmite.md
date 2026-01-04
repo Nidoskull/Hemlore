@@ -17,7 +17,7 @@ As founding member of Team Stamp Squad, he's close with [Titania the Tinkatink](
 ## History
 Ralmin remembers very, *very* little about his life before waking up near a big city. He loosely remembers hearing some kind of voice cheering him on shortly before he actually woke up, but doesn't know who or where or what that voice could be.
 
-Shortly after waking up, he encountered Epinephrine who snuck them into their school as a roommate. The two grew close, but Eppie eventually had to leave Satojiri for higher education. Ralmin learned of the [Glaive Expedition Federation](Guild.Glaive%20Expedition%20Federation) through Epinephrine, and decided to apply to obtain a goal in life beyond simply drifting as icebergs tend to do.
+Shortly after waking up, he encountered Epinephrine who snuck them into their school as a roommate. The two grew close, but Eppie eventually had to leave Satojiri for higher education. Ralmin learned of the [Glaive Expedition Federation](Guild.Glaive) through Epinephrine, and decided to apply to obtain a goal in life beyond simply drifting as icebergs tend to do.
 
 #### Tags:
 #character #pc #teamstampsquad 

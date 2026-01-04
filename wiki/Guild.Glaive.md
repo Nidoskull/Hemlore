@@ -1,4 +1,4 @@
-[]()# Glaive Expedition Federation
+# Glaive Expedition Federation
 ![A golden badge depicting Baxcalibur.](assets/image/BadgeGlaiveExplorationFederation.png)
 
 _"To seek the worlds beyond our own understanding, to help those beyond our own circles, to become greater together than we are on our own."_
