@@ -21,7 +21,7 @@ As one of the founders of Team Gummy, Jelly is close to [Mars the Larvitar](Char
 ## History
 Jelly's egg had some complications before hatching. However, thanks to Evangeline's unconditional love, and the support of Daimon, and a little help from [Giratina](Tale.Giratina), he became the little blue boy we know nowadays.
 
-Born to Evangeline Bean, and raised without a true father, but many false stepfathers, Jelly Bean's upbringing is surprisingly enough fairly simple... discounting that one incident, but let us not speak of it, hm?
+Born to Evangeline Bean, and raised without a true father, but many false stepparents, Jelly Bean's upbringing is surprisingly enough fairly simple... discounting that one incident, but let us not speak of it, hm?
 
 As he's experienced some difficulties due to his autism, Evangeline has decided to homeschool him, at least partially. 
 
