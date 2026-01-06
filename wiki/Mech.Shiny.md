@@ -22,6 +22,8 @@ These actions can vary from getting a super-effective move in a pinch, to surviv
 
 These Pokemons have had their colors taken away from them by High Magistrate Zygarde or Giratina. Reverting those Pokemon to the time without colour and individuality. This can happen if a pokemon selfishly steals for themself or desecrate shrines.
 
+Coincidentally all known colorless Pokemons are stuck in a permanent méga-evolution state.
+
 This can also happen to normal pokemons, but is less noticeable as they can be mistaken for being leucistic.
 
 ###  Tags
