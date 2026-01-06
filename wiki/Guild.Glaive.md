@@ -10,7 +10,7 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 ## Members
 ### Guildmates
 
-- [Guildmaster Baxcalibur](Char.Guildmaster%20Baxcalibur) ([Team Roppyaku](Team.Roppyaku)), 
+- [Guildmaster Baxcalibur](Char.Guildmaster%20Baxcalibur) ([Team Roppyaku](Team.Roppyaku)) 
 - [Deputy Guildmaster Darmanitan](Char.Darmanitan%20(Glaive)) 
 - [Treasurer Dusknoir](Char.Dusknoir%20(Glaive)) 
 - [Lookout Swellow](Char.Swellow%20(Glaive)) 
@@ -26,14 +26,17 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 - [Hemlock of Belladonna](Char.Hemlock%20of%20Belladonna) 
 - [Gambit the Pawniard](Char.Gambit%20the%20Pawniard) 
 - [Néon the Tynamo](Char.Neon%20the%20Eelektrik) 
+
 [Team Orchard](Team.Orchard):
 - [Pom the Honedge](Char.Pom%20the%20Honedge) 
 - [Amby the Mudkip](Char.Amby%20the%20Mudkip) 
 - [Mint the Chespin](Char.Mint%20the%20Chespin) 
+
  [Team Stamp Squad](Team.StampSquad):
 - [Titania the Tinkatink](Char.Titania%20the%20Tinkatink) 
 - [Kasi the Ralts](Char.Kasi%20the%20Ralts) 
 - [Ralmin the Bergmite](Char.Ralmin%20the%20Bergmite) 
+
  [Team Gummy](Team.Gummy):
 - [Volt the Shinx](Char.Volt%20the%20Shinx) 
 - [Jelly the Marill](Char.Jelly%20Bean) 
@@ -43,14 +46,14 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 _This list is incomplete. You can help by expanding it._
 
 - [Gala the Morelull](Gala%20the%20Morelull) (Team Orchard)
-- [Elma the Poltchageist](Elma%20the%20Poltchageist), (Team Orchard)
-- [Razor the Gible](Char.Razor%20the%20Gible), (Team Stamp Squad)
-- [Georio the Geodude](Georio%20the%20Geodude), (Team Orchard)
-- [Geogi the Geodude](Geogi%20the%20Geodude), (Team Orchard)
-- [Arthur the Riolu](Arthur%20the%20Riolu), (Team Gummy)
-- [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee), (Team Nova)
-- [Ishy the Fuecoco](Char.Ishy%20the%20Fuecoco), (Team Orchard)
-- [Sheo the Gastly](Char.Sheo%20the%20Gastly), (Team Nova)
+- [Elma the Poltchageist](Elma%20the%20Poltchageist)  (Team Orchard)
+- [Razor the Gible](Char.Razor%20the%20Gible)  (Team Stamp Squad)
+- [Georio the Geodude](Georio%20the%20Geodude)  (Team Orchard)
+- [Geogi the Geodude](Geogi%20the%20Geodude)  (Team Orchard)
+- [Arthur the Riolu](Arthur%20the%20Riolu)  (Team Gummy)
+- [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee)  (Team Nova)
+- [Ishy the Fuecoco](Char.Ishy%20the%20Fuecoco)  (Team Orchard)
+- [Sheo the Gastly](Char.Sheo%20the%20Gastly)  (Team Nova)
 - [Bronze the Beldum](Bronze%20the%20Beldum) (Team Gummy)
 - [Djefatgoobti Meritxernen Akekhselkis](Char.Djefatgoobti%20Meritxernen%20Akekhselkis) (Team Gummy)
 - [Balor the Slowpoke](Char.Balor%20the%20Slowpoke) (Team Stamp Squad)
