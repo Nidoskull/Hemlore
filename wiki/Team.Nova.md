@@ -14,7 +14,7 @@ Team Nova was founded by [Char.Hemlock of Belladonna](Char.Hemlock%20of%20Bellad
 - [Nova Report #002](Report.Nova2)
 - [Joint Expedition #001](Report.Joint%20Expedition%201)
 - [Nova Report #003](Report.Nova3)
-- [Nova Report #004 ](Report.Nova%20Mission%204)
+- [Nova Report #004 ](Report.Nova4)
 - [Joint Expedition #002](Report.Joint2)
 - [Nova Report #005](Report.Nova5)
 - [Joint Expedition #004](Report.Joint4)
