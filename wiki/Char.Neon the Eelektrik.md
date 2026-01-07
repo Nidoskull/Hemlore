@@ -33,7 +33,7 @@ In a mission into the past, Neon along with Ladon helped resurect the late Basil
 
 After an attack on the guild by [Deima the Tyranitar](Char.Deima%20the%20Tyranitar), where Neon shatters her effigy with a Victini-granted Twinkle Tackle, [High Magistrate Zygarde](Tale.Zygarde) shows up to grant Neon (then still named Ty) a new name. 
 
-On a Joint Expedition with Litleo, Hemlock, Volt, Ralmin and Mint, Zygarde forcibly evolved Neon to prevent him from being permanently absorbed by Them after stepping in along with Hemlock to help them reach their 50% form to defeat an Aberration Pokemon.
+On a [Joint Expedition](Report.Joint5) with Litleo, Hemlock, Volt, Ralmin and Mint, Zygarde forcibly evolved Neon to prevent him from being permanently absorbed by Them after stepping in along with Hemlock to help them reach their 50% form to defeat an Aberration Pokemon.
 
 ### See also:
 [Neon's ToyHouse page](https://toyhou.se/26725618.Neon)
