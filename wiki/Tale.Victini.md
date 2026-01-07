@@ -17,7 +17,7 @@ Around 6000 years ago, during [Nova's Time Travel Episode](Report.Nova3), she he
 
 At an unknown date, she was murdered in [Casa Victoria](City.Casa Victoria) on her wedding night supposedly by the Loyal Three.
 
-During Joint Expedition 5, she grants her blessing to [Zygarde](Tale.Zygarde) after They absorbed Neon to get into Their 50% form. During this, both deities combined their powers to violate the natural order of things and force Neon to evolve, else it would have been absorbed permanently
+During [a Joint Expedition](Report.Joint5), she grants her blessing to [Zygarde](Tale.Zygarde) after They absorbed Neon to get into Their 50% form. During this, both deities combined their powers to violate the natural order of things and force Neon to evolve, else it would have been absorbed permanently
 
 #### Tags:
 #character #npc #mythical #mythology #victini
