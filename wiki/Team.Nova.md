@@ -24,7 +24,7 @@ Team Nova was founded by [Char.Hemlock of Belladonna](Char.Hemlock%20of%20Bellad
 - Nova has spent the longest time not getting any allies.
   - This is because none of them knew how the ally system worked.
 - Nova is also the only team with only scripted allies.
-- All three founding members have been fused with Zygarde at some point.
+- All three founding members have been fused with [Zygarde](Tales.Zygarde) at some point.
 
 #### Tags:
 #teamnova #glaiveexpeditionfederation
