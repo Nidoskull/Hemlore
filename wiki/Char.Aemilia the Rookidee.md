@@ -3,7 +3,7 @@
 ## Description
 **Aemilia** the **[Rookidee](Species.Rookidee)** is an ally explorer as part of [Team Nova](Team.Nova). First seen during [Nova Mission #3](Report.Nova3), she is 22 years old and hails from [Carew City](City.Carew%20City), from 6,000 years ago. She uses she/her pronouns.
 
-She has silver bands around her legs and wears a [Rooki-Wreath](Mech.Exclusive%20Items). She is quite [Impish](Mech.Nature) and may sometimes have painted patterns on herself.
+She has silver bands around her legs and wears a [Rooki-Wreath](Mech.Exclusive%20Items). She is quite [Impish](Mech.Nature) and may sometimes have painted patterns on herself. Aemilia is a little hard of hearing.
 
 Aemilia speaks [Satojiran](Region.Satojiri).
 

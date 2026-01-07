@@ -25,7 +25,11 @@ Back in Archa City, it was part of a book club with [Dusty the Cubone](Char.Dust
 Because of various reasons, Hemlock doesn't really like the [Pan Trio](Char.Pan%20Trio) or [Cofagrigus](Char.Cofagrigus%20(Glorious%20Gold)).
 
 ## History
-Hemlock lived in Paleo City for most of its childhood. Its mother, Belladonna, sent it to the Glaive Expedition Federation to aid it in its quest for knowledge, and to grow stronger than it could within the safe walls of its home.
+Hemlock lived in Paleo City for most of its childhood. A year or so before entering the Guild, Belladonna bought a cute glass marble and gave it to Hemlock as a reminder of home.
+
+Belladonna sent it to the Glaive Expedition Federation to aid it in its quest for knowledge, and to grow stronger than it could within the safe walls of its home.
+
+On its first errand for the Guild, Hemlock was stopped by the Pan Trio outside of Porygon_Emporium, and the three bump into Hemlock as they get chased off by Torterra. Running off, they didn't take any Poké, but... they *did* steal Hemlock's Marble. When Hemlock encounters the Pan Trio again, they claim innocence, having never even *seen* a marble! Hemlock is pissed enough at the Pan Trio to attack first. Slight issue: Hemlock is level 5 and the Pan Trio is level 14. At least Neon managed to get Guildmaster Baxcalibur before anyone got seriously hurt.
 
 
 #### Tags:
