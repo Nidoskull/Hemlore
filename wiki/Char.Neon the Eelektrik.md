@@ -19,7 +19,7 @@ Additionally, as a shiny she has a psychic link with [Victini](Tale.Victini). Ne
 ## History
 Since birth Neon was constantly getting dragged by currents all over the globe and as such doesn't have a definite place of origin. They'd end up in different shoals for a short while before drifting again. 
 
-In one of these shoals, they met a duo of cephalomons, [Blink](Char.Blink%20the%20Inkay) and [Blaster](Char.Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace to the inhabitants of the [underwater ruins](World#solfbivia). Some months of this later, the now-trio was causing problems for the local [Wingull](Species.Wingull) population when a storm broke out. 
+In one of these shoals, they met a duo of cephalomons, [Blink](Char.Blink%20the%20Inkay) and [Blaster](Char.Blaster%20the%20Octillery). It lived with the duo of cephalopods for a while, being a menace to the inhabitants of the [underwater ruins](World#Solfbivia). Some months of this later, the now-trio was causing problems for the local [Wingull](Species.Wingull) population when a storm broke out. 
 
 The waves dragged Neon further than it could swim, and he was swept out to the open seas. Fortunately, [Latias](Tale.Latias) found her, telling it of the [Glaive Expedition Federation](Guild.Glaive) as they flew to safety. Neon then took to join the guild and started travelling in it's direction.
 
@@ -29,11 +29,11 @@ Finding its way to [Dura Town](City.Dura%20Town), Neon manages to join the guild
 
 During a guild mission in [Casa Victoria](City.Casa%20Victoria), Neon was suspected of being a card-cheat by a Murkrow after winning 2 games of Uno in a row. [Munkidori](Tale.Munkidori) of the Loyal Three put his whole hand in its brain to see his memories, and found out she had no idea it was shiny. Instead of being exploded on the spot, it was left alone since she didn't know, but anything it won was repossessed, while it was unconscious and unable to object after having a whole hand in his brain. Neon is since unable to gamble ever again until its luck is chained, much to his dismay.
 
-In a mission into the past, Neon along with Ladon helped resurect the late Basillina to life with a joint [Shiny Surge](Mech.Shiny#shiny-surge)
+In a mission into the past, Neon along with Ladon helped resurrect the late Basilinna to life with a joint [Shiny Surge](Mech.Shiny#shiny-surge).
 
 After an attack on the guild by [Deima the Tyranitar](Char.Deima%20the%20Tyranitar), where Neon shatters her effigy with a Victini-granted Twinkle Tackle, [High Magistrate Zygarde](Tale.Zygarde) shows up to grant Neon (then still named Ty) a new name. 
 
-On a [Joint Expedition](Report.Joint5) with Litleo, Hemlock, Volt, Ralmin and Mint, Zygarde forcibly evolved Neon to prevent him from being permanently absorbed by Them after stepping in along with Hemlock to help them reach their 50% form to defeat an Aberration Pokemon.
+On a [Joint Expedition](Report.Joint5) with Litleo, Hemlock, Volt, Ralmin and Mint, Zygarde forcibly evolved Neon to prevent him from being permanently absorbed by Them after stepping in along with Hemlock to help them reach their 50% form to defeat an Aberration Pokémon.
 
 ### See also:
 [Neon's ToyHouse page](https://toyhou.se/26725618.Neon)
