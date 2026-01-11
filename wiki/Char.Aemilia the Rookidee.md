@@ -21,7 +21,7 @@ Little is known about Aemilia's time back in Carew, and she prefers it stay that
 
 During [Team Nova's little time adventure](Report.Nova3), Aemilia aided Team Nova by lying to [Basileus Fictusilva](Char.False%20Basileus%20Fictusilva) and accompanying the Team through the Basileus's storehouse. Additionally, during the confrontation with the false Basileus, Aemilia supported the other revolutionaries with Tailwind and item usage. She joined Team Nova back to their home time and has remained with us since.
 
-Aemilia joined us on [Nova Mission #004](Report.Nova%20Mission%204). 
+Aemilia joined us on [Nova Mission #004](Report.Nova4). 
 
 #### Tags:
 #character #npc #glaiveexpeditionfederation #explorer #ally #teamnova
