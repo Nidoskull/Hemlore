@@ -10,7 +10,7 @@ Strangely, Zamazenta has *also* been described as a gold-and-red canine, with no
 
 Zamzday is named after Zamazenta.
 ## Relationships
-It is believed that Zamazenta has a sister in [Zacian](Zacian%20(Myth)), though other sources describe the pair as unrelated rivals.
+It is believed that Zamazenta has a sister in [Zacian](Tale.Zacian), though other sources describe the pair as unrelated rivals.
 
 Presumably, he and Eternatus are chill now.
 ## History
