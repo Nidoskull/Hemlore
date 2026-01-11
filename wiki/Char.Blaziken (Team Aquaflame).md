@@ -1,7 +1,7 @@
 # Guildmaster Blaziken
 `Paste icon here`
 ## Description
-**[Blaziken](Species.Torchic)** holds the title of Guildmaster in [Wigglytuff's Guild](Wigglytuff's%20Guild). He has, presumably, also been known as Combusken and Torchic. He uses he/him pronouns.
+**[Blaziken](Species.Torchic)** holds the title of Guildmaster in [Wigglytuff's Guild](Guild.Wigglytuff). He has, presumably, also been known as Combusken and Torchic. He uses he/him pronouns.
 
 Blaziken has been titled Exploratores Temporis-Tenebrarum by [Princeps Maris Caeli-Explorator](Princeps%20Maris%20Caeli-Explorator). He's thirty years old.
 
