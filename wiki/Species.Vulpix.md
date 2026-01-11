@@ -1,4 +1,4 @@
-# Kitsune (Vulpix & Ninetales species family)
+# Nonavulpidae (Vulpix & Ninetales species family)
 Vulpix and Ninetales are a strange species of Pokémon that comes in two varieties. One, generally considered the [Kareblyan](Region.Kareblye) variant, is a Fire-type, and usually has a temper to match. Another variety, generally called the [Alo'lolan](Region.Alo%27lola) variant, is an Ice type, and as such prefers the snow. Upon evolution, Alo'lolan Ninetales become Ice/Fairy types.
 
 Whether Kareblyan or Alo'lolan, Vulpix and Ninetales are vulpine Pokémon, quadrupedal with many tails.
