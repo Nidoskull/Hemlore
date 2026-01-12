@@ -1,7 +1,7 @@
 # The Infernal Machine (Tale)
 
 ## Summary
-[Team Roppyaku](Team.Roppyaku) and [Team Profundo](Team.Profundo) team up to defend the Infernal Machine from [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable). Though they succeed, it is at a heavy cost, as [Dondozo](Char.Dondozo%20(Team%20Profundo)) of Team Profundo perishes. [Arctibax](Char.Guildmaster%20Baxcalibur), [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) evolve.
+[Team Roppyaku](Team.Roppyaku) and [Team Profundo](Team.Profundo) team up to defend the Infernal Machine from [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable). Though they succeed, it is at a heavy cost, as [Dondozo](Char.Dondozo%20(Team%20Profundo)) of Team Profundo perishes. [Arctibax](Char.Guildmaster%20Baxcalibur), [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku).md) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) evolve.
 
 ## Tale
 As originally told by [Kricketune, Minstrel of the Dawn](Char.Kricketune%20(Minstrel)):
@@ -27,7 +27,7 @@ As originally told by [Kricketune, Minstrel of the Dawn](Char.Kricketune%20(Mins
 > 
 > A call was put out, the largest bounty on any criminal ever, for 5 million ![:Poke:|18x18](https://cdn.discordapp.com/emojis/1221218673168224377.webp?size=56). So many members of the guilds and collectives and federations of the world sought to claim the bounty. So many of them claimed they had taken him, that they had slain this monster, and so many of them must have been been right because they had the proof to back it up but Zoroark kept returning.
 > 
-> Finally, it was two teams that joined forces to stop him once and for all at the sight of his final goal. Team Roppyaku, led by a Larvesta and aided by her beloved Arctibax and her best friend Zweilous; and Team Profundo led by a Dondozo and aided by his compatriots [Rillaboom](Rillaboom%20(Team%20Profundo)) and a different Zweilous.
+> Finally, it was two teams that joined forces to stop him once and for all at the sight of his final goal. Team Roppyaku, led by a Larvesta and aided by her beloved Arctibax and her best friend Zweilous; and Team Profundo led by a Dondozo and aided by his compatriots [Rillaboom](Char.Rillaboom%20(Team%20Profundo)) and a different Zweilous.
 > 
 > This is where our tale comes to its head. It was Larvesta who sought the aide of Uxie, the initial creator of the map, and passionately pled with it to tell them where the Infernal Machine was that they might save it from the thief, from the Unkillable.
 > 

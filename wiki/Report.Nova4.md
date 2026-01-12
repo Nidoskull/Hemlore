@@ -15,7 +15,7 @@ Out of nowhere the statues rises up due to electromagnetism from Neon's body. Th
 
 Almost immediately after, the ground cracks and opens up under Hemlock and Gambit. Aemilia tries to grab Hem and guide it's fall toward a soft pile of silt. Neon tries sparking Gambit to do an approximation of [Magnet Rise](https://bulbapedia.bulbagarden.net/wiki/Magnet_Rise_(move)), as advised by Aemilia. The group fell two whole floors.
 
-Now on floor B3F, the team finds a room with half a dozen fainted mons, including a [Gigantamaxed](Mech.Dynamax) [Copperajah](Char.Copperajah%20(Subterra)) and a [Mega](Mech.Mega%20Evolution) [Garchomp](Char.Guildmaster%20Khepsh). Bright green flames around them. All of them are explorers from the Subterra guild. The escape trigger on their badges had been disabled for some reason, so Hemlock warps them out with it's badge to the Glaive Guild. Aemilia finds Spoink's lost Warp Orb in the same room.
+Now on floor B3F, the team finds a room with half a dozen fainted mons, including a [Gigantamaxed](Mech.Dynamax) [Copperajah](Char.Copperajah%20(Subterra)) and a [Mega](Mech.Mega%20Evolution) [Garchomp](Char.Guildmaster%20Sclavia). Bright green flames around them. All of them are explorers from the Subterra guild. The escape trigger on their badges had been disabled for some reason, so Hemlock warps them out with it's badge to the Glaive Guild. Aemilia finds Spoink's lost Warp Orb in the same room.
 
 _Meanwhile, at the guild._ A group of six fainted Pokémon appears on Baxcalibur's front doorstep.
 
@@ -25,7 +25,7 @@ On the next floor, they find a single Zygarde cell! The aedile climbs up Gambit'
 
 After a short battle, the group finds... [Minstrel Kricketune](Char.Kricketune%20(Minstrel))! He's looking for a shrine to [Zygarde](Tale.Zygarde)'s twelve legates to get inspiration. He's escorted by [Menni the Salamence](Char.Menni%20the%20Salamence) and his niece V[aleria Racotta Albion Trusine Speares Wanless VI](Char.Valeria%20(Team%20Gummy))! The group talks, mostly about Ralmin, she reveals she prefers girls, flirts with Aemilia, and they depart. 
 
-[Monster House!](Mech.Mystery Dungeon) The Aedile gets first dibs and makes Gambit a massive sword out of dust on the battlefield, taking out five Pokémon in one swing. Hemlock and Neon then use their [Team-up Move](Mech.Team-up%20Move) Scuttle Shock to take out the remaining Pokémon. 
+[Monster House!](Mech.Mystery Dungeon) The Aedile gets first dibs and makes Gambit a massive sword out of dust on the battlefield, taking out five Pokémon in one swing. Hemlock and Neon then use their [Team-up Move](Mech.Team-up%Techniques) Scuttle Shock to take out the remaining Pokémon. 
 
 The team investigate a brine pool, where a [Titan](Mech.Titan) [Cradily](Species.Lileep), the same Team Orchard fought before, is sitting in. The rest of the team hides behind rocks before Gambit and the aedile walk up to it and it SPRAYS UP, throwing the Titan into another brine pool in the dungeon.
 

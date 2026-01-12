@@ -13,7 +13,7 @@ Known relatives are:
 - Isshuana Dirge II (Father)
 - Ishy's Mother (Mother)
 
-As member of Team Orchard, Ishy is of course friends with [Mint](Char.Mint%20the%20Chespin), [Amby](Char.Amby%20the%20Mudkip), [Pom](Char.Pom%20the%20Honedge), [Gala](Char.Gala%20the%20Morelull), [Elma](Char.Elma%20the%20Poltchageist), [Georio](Char.Georio%20the%20Geodude), and [Geogi](Char.Geogi%20the%20Geodude).
+As member of Team Orchard, Ishy is of course friends with [Mint](Char.Mint%20the%20Chespin), [Amby](Char.Amby%20the%20Mudkip), [Pom](Char.Pom%20the%20Honedge.md), [Gala](Char.Gala%20the%20Morelull), [Elma](Char.Elma%20the%20Poltchageist), [Georio](Char.Georio%20the%20Geodude.md), and [Geogi](Char.Geoigi%20the%20Geodude.md).
 
 [Hemlock](Char.Hemlock%20of%20Belladonna) and Ishy have bonded over being nerds.
 
