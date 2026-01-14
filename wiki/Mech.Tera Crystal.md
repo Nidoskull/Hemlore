@@ -1,5 +1,5 @@
 # Tera Crystal
-A **Tera Crystal** is a source of [Terastal](Terastalization) Energy. Being near one allows one to more easily tap into Terastalization, changing one's type entirely.
+A **Tera Crystal** is a source of [Terastal](Mech.Terastalization) Energy. Being near one allows one to more easily tap into Terastalization, changing one's type entirely.
 
 Tera Crystals are most commonly seen in [Cabodea](Region.Cabodea) and [Korakita](Region.Korakita), though every continent has at least a few.
 

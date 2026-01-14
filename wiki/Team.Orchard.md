@@ -8,7 +8,7 @@ Team Orchard was founded by [Mint the Chespin](Mint%20the%20Chespin), [Amby the 
 - [Pom the Honedge](Char.Pom%20the%20Honedge)
 - [Gala the Morelull](Char.Gala%20the%20Morelull)
 - [Elma the Poltchageist](Char.Elma%20the%20Poltchageist)
-- [Georio the Geodude](Char.Georio%20the%20Geodude.md)
+- [Georio the Geodude](Char.Georio%20the%20Geodude)
 - [Geoigi the Geodude](Char.Geoigi%20the%20Geodude)
 - [Ishy the Fuecoco](Char.Ishy%20the%20Fuecoco)
 - [Jazz the Runerigus](Char.Jazz%20the%20Runerigus)

@@ -1,7 +1,7 @@
 # The Infernal Machine (Tale)
 
 ## Summary
-[Team Roppyaku](Team.Roppyaku) and [Team Profundo](Team.Profundo) team up to defend the Infernal Machine from [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable). Though they succeed, it is at a heavy cost, as [Dondozo](Char.Dondozo%20(Team%20Profundo)) of Team Profundo perishes. [Arctibax](Char.Guildmaster%20Baxcalibur), [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku).md) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) evolve.
+[Team Roppyaku](Team.Roppyaku) and [Team Profundo](Team.Profundo) team up to defend the Infernal Machine from [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable). Though they succeed, it is at a heavy cost, as [Dondozo](Char.Dondozo%20(Team%20Profundo)) of Team Profundo perishes. [Arctibax](Char.Guildmaster%20Baxcalibur), [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) evolve.
 
 ## Tale
 As originally told by [Kricketune, Minstrel of the Dawn](Char.Kricketune%20(Minstrel)):

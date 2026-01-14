@@ -4,7 +4,7 @@
 
 Hydreigon's scales shimmer with a color not unlike [the One Who Breathes Time](Tale.Dialga). 
 
-pronoun speaks LANGUAGES.
+He speaks at minimum [Satojiran](Region.Satojiri), though likely has more-than-passing knowledge of various other languages.
 
 ## Relationships
 Known relatives are:

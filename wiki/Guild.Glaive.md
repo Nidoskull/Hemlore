@@ -28,7 +28,7 @@ The Glaive Expedition Federation focuses mainly on completing jobs and bounties.
 - [Néon the Tynamo](Char.Neon%20the%20Eelektrik) 
 
 [Team Orchard](Team.Orchard):
-- [Pom the Honedge](Char.Pom%20the%20Honedge.md) 
+- [Pom the Honedge](Char.Pom%20the%20Honedge) 
 - [Amby the Mudkip](Char.Amby%20the%20Mudkip) 
 - [Mint the Chespin](Char.Mint%20the%20Chespin) 
 
@@ -48,7 +48,7 @@ _This list is incomplete. You can help by expanding it._
 - [Gala the Morelull](Char.Gala%20the%20Morelull) (Team Orchard)
 - [Elma the Poltchageist](Char.Elma%20(Matcha)) (Team Orchard)
 - [Razor the Gible](Char.Razor%20the%20Gible) (Team Stamp Squad)
-- [Georio the Geodude](Char.Georio%20the%20Geodude.md) (Team Orchard)
+- [Georio the Geodude](Char.Georio%20the%20Geodude) (Team Orchard)
 - [Char.Geoigi the Geodude](Char.Geoigi%20the%20Geodude) (Team Orchard)
 - [Arthur the Riolu](Char.Arthur%20the%20Riolu) (Team Gummy)
 - [Aemilia the Rookidee](Char.Aemilia%20the%20Rookidee) (Team Nova)
@@ -73,13 +73,13 @@ Originally based on [Guranbar Island](Loc.Guranbar%20Island), the Guild encounte
 
 In 6758 ISC (17 years ago), the Guild relocated to [Dura Town](City.Dura%20Town) and heavily invested in the infrastructure of the town. It has remained in this location since.
 
-[Team Roppyaku](Team.Roppyaku) of the Guild met with [Team Profundo](Team.Profundo) to stop [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Tale.Infernal%20Machine). This event causes [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Arctibax](Char.Guildmaster%20Baxcalibur), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku).md) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) to evolve.
+[Team Roppyaku](Team.Roppyaku) of the Guild met with [Team Profundo](Team.Profundo) to stop [Zoroark the Unkillable](Char.Zoroark%20the%20Unkillable) from entering the [Infernal Machine](Tale.Infernal%20Machine). This event causes [Larvesta](Char.Volcarona%20(Team%20Roppyaku)), [Arctibax](Char.Guildmaster%20Baxcalibur), [Zweilous](Char.Hydreigon%20(Team%20Roppyaku)) and [Zweilous](Char.Hydreigon%20(Team%20Profundo)) to evolve.
 
 In 6768 ISC (7 years ago), the Guild collaborated with the [Constellation Explorers Guild](Guild.Constellation%20Explorers) to track down criminals in the [Broiling Caldera](MD.Broiling%20Caldera). These criminals, the [Executors](Group.Executors), had a streak of targeting rookies. When [Drizzile's team](Team.Drizzile) found the Executors, they had prisoners, held for whatever brutalities the Executors had planned. Tepig and Bulbasaur were intent on being heroes, to save those other rookies. They did not stand a chance. Guildmaster Baxcalibur has never been angrier. The Executors are no longer a problem.
 
 During 6775 ISC's Dura Town Festival, Litleo is Pokénapped by [Arcanine](Char.Arcanine%20(Wildfire)), and Dusknoir intervenes when [Regigigas](Tale.Regigigas) causes devastation.
 
-[Ralmin](Char.Ralmin%20the%20Bergmite) ingests tainted [Herba Mystica](Item.Herba%20Mystica), but survives due to [Pom](Char.Pom%20the%20Honedge.md)'s intervention. The Guild members visiting Archa City are all summoned into the [Temple of the Serpent and King](City.Archa%20City) to face [Miraidon](Tale.Miraidon)). They inform Ralmin and Pom that though Ralmin was fated to die that day, Pom has defied fate, and Miraidon congratulates the two on forging their own destiny. 
+[Ralmin](Char.Ralmin%20the%20Bergmite) ingests tainted [Herba Mystica](Item.Herba%20Mystica), but survives due to [Pom](Char.Pom%20the%20Honedge)'s intervention. The Guild members visiting Archa City are all summoned into the [Temple of the Serpent and King](City.Archa%20City) to face [Miraidon](Tale.Miraidon)). They inform Ralmin and Pom that though Ralmin was fated to die that day, Pom has defied fate, and Miraidon congratulates the two on forging their own destiny. 
 
 [A Sableye](Char.Sableye%20(Thieve%27s%20Guild)) attempts to break into the Guild. 
 
