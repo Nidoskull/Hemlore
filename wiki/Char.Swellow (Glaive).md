@@ -8,9 +8,9 @@ Swellow is incredibly far-sighted, which is a boon when playing lookout, and a c
 Swellow speaks at minimum [Satojiran](Region.Satojiri).
 
 ## Relationships
-Swellow has no known relatives, but *is* partnered to [Latias](Tale.Latias).
+Swellow is partnered to [Latias](Tale.Latias) and has adopted [Emmie](Char.Emmie%20the%20Torchic) with her.
 
-Swellow used to have an unknown teammate. It is unknown what happened to them.
+Swellow used to have a [Wurmple](Char.Wurmple%20(Tasty)) teammate. It is unknown what happened to them.
 
 ## History
 Unfortunately, I know very little about Swellow's past. At some point he evolved from Taillow into Swellow, and that's everything I know.

@@ -5,7 +5,7 @@ Ekans is comparatively small. Though it averages around two meters in length, mo
 
 Arbok are much larger, being nearly entirely purple. They have a 'hood' on their torso, which they can expand for intimidation purposes. The pattern on this hood differs per individual, though they follow broad patterns per region; usually, the pattern resembles a face, with a black mouth and red and yellow eyespots . Some may also have a black pattern on the back of their hood. 
 
-Setnepres are most comfortable in grassy areas where they can hide. Both evolutionary stages can navigate entirely on smells picked up by flicking their tongue out, and have the ability to sense heat sources through pits on their faces. 
+Setnepres are most comfortable in grassy areas or treetops where they can hide. Both evolutionary stages can navigate entirely on smells picked up by flicking their tongue out, and have the ability to sense heat sources through pits on their faces.
 
 ## Notable mons
 
