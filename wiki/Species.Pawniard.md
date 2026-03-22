@@ -1,14 +1,14 @@
 # Chessblade (Pawniard/Bisharp/Kingambit species family)
 Chessblades are Dark/Steel-[type](Mech.Type) Pokémon, covered head to toe in sharp blades. They are bipedal and their armor is not visibly jointed. Their coloration is, overall, dark grey and red. Despite being able to live hundreds of years, most chessblades will die in battle before reaching 120 years old. A group of chessblades is known as an army.
 
-Pawniard are small, with a large helmet that partially covers their eyes. They lack hands, instead having more blades. If you see one Pawniard, more are almost certainly around, waiting in the shadows. Pawniard evolves into Bisharp at level 52.
+Pawniard are small, with a large helmet that partially covers their eyes. They lack hands, instead having more blades. If you see one Pawniard, more are almost certainly around, waiting in the shadows. Pawniard [evolves](Mech.Evolution) into Bisharp at level 52.
 
 Bisharp are tall, with sharper and larger blades. Even its feet are blades. Bisharp are of a higher rank than Pawniard; a Bisharp may lead a squadron of Pawniard if they are granted a Leader's Crest by their Kingambit. If a Bisharp does not hold a Leader's Crest, they must remain as part of a squadron, rather than leading it. If a Bisharp obtains three Leader's Crests as part of the fight to become the new leader, they can evolve into Kingambit.
 
 Kingambit are the final stage of evolution, though very few ever obtain this rank. Each army of Bisharp and Pawniard is led by a single Kingambit. Only when the previous Kingambit passes will there be a chance for a Bisharp to evolve into a Kingambit; a brutal, bloody fight will erupt within the army, and the Bisharp within will do nearly anything to obtain the Leader's Crests of their comrades. Whoever manages to obtain three Leader's Crests first is allowed to become the next Kingambit, and those who lose their Leader's Crest to a foe are forced out of the running.
 
 ## Culture
-Chessblade society is dictated primarily by the military structure ingrained in their DNA. Breaking rank is a massive faux pas, leading to exile from the army one belongs to, and distrust from other armies. Family does exist, but it is secondary to army rank; seperated families are quite common. When fighting each other, the loser is conquered, and forced into the victor's army. 
+Chessblade society is dictated primarily by the military structure ingrained in their DNA. Breaking rank is a massive faux pas, leading to exile from the army one belongs to, and distrust from other armies. Family does exist, but it is secondary to army rank; separated families are quite common. When fighting each other, the loser is conquered, and forced into the victor's army. 
 
 Rank within a particular army is based on age, experience, and strength, but most importantly, it's based on evolution. A Pawniard will always be subservient to a Bisharp will always be subservient to a Kingambit. Pawniard may never lead a squadron. A Bisharp may obtain a Leader's Crest if their Kingambit considers them experienced enough to lead. 
 
